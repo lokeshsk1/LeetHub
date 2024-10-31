@@ -1,19 +1,15 @@
 class Solution:
     def integerBreak(self, n: int) -> int:
 
-        res = 1
-
-        if n < 4:
-            return n-1
-
-        while n > 4:
-            res *= 3
-            n -= 3
         
-        res *= n
-        
-        return res
+        dp = [0 for _ in range(n+1)]
+        dp[1] = 1
 
+        for i in range(2, n+1):
+            for j in range(1, min(i,4)):
+                dp[i] = max(dp[i], j*max(dp[i-j], i-j))
+
+        return dp[n]
 
 
         
