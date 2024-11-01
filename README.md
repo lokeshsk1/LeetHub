@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/lokeshsk1/LeetHub/tree/master/0062-unique-paths) |
+## String
+|  |
+| ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/lokeshsk1/LeetHub/tree/master/1302-delete-characters-to-make-fancy-string) |
 <!---LeetCode Topics End-->
