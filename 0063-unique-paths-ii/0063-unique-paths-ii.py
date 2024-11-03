@@ -17,9 +17,9 @@ class Solution:
             for j in range(c):
                 if grid[i][j] != -1:
                     if i > 0 and grid[i-1][j]!=-1:
-                        grid[i][j] += max(0, grid[i-1][j])
+                        grid[i][j] += grid[i-1][j]
                     if j > 0 and grid[i][j-1]!=-1:
-                        grid[i][j] += max(0, grid[i][j-1])
+                        grid[i][j] += grid[i][j-1]
         
 
         return grid[-1][-1]
