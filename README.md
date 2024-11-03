@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/lokeshsk1/LeetHub/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0343-integer-break](https://github.com/lokeshsk1/LeetHub/tree/master/0343-integer-break) |
 ## Combinatorics
 |  |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/lokeshsk1/LeetHub/tree/master/0812-rotate-string) |
+## Array
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0064-minimum-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
