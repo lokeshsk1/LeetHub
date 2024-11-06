@@ -22,9 +22,7 @@ class Solution:
                 mn = min(mn, nums[i])
                 i += 1
 
-            curr_min = mn
-
-            if prev_max and curr_min < prev_max:
+            if prev_max and mn < prev_max:
                 return False
 
             prev_max = mx
