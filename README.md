@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/lokeshsk1/LeetHub/tree/master/0120-triangle) |
 | [0343-integer-break](https://github.com/lokeshsk1/LeetHub/tree/master/0343-integer-break) |
+| [0967-minimum-falling-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0967-minimum-falling-path-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/lokeshsk1/LeetHub/tree/master/0120-triangle) |
+| [0967-minimum-falling-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0967-minimum-falling-path-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lokeshsk1/LeetHub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lokeshsk1/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
 ## Matrix
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0064-minimum-path-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0967-minimum-falling-path-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
