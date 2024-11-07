@@ -2,14 +2,14 @@ class Solution:
 
     def largestCombination(self, nums: List[int]) -> int:
 
+        res = 1
         bits = [0]*24
 
-        for i in nums:
+        for i in range(24):
             c = 0
-            while i:
-                bits[c] += i & 1
-                i >>= 1
-                c += 1
+            for n in nums:
+                ith_bit = n >> i
+                c += ith_bit & 1
+            res = max(res, c)
         
-        print(bits)
-        return max(bits)
+        return res
