@@ -7,8 +7,8 @@ class Solution:
 
         for i in nums:
             cumXOR ^= i
+            # k = cumXOR ^ maxXOR
             k = maxXOR - cumXOR
-            # print(cumXOR, k)
             res.append(k)
         
         return res[::-1]
