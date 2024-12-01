@@ -1,10 +1,10 @@
 class Solution:
     def checkIfExist(self, arr: List[int]) -> bool:
         
-        Set = set()
+        vis = set()
         for i in arr:
-            if i/2 in Set or i*2 in Set:
+            if i/2 in vis or i*2 in vis:
                 return True
-            Set.add(i)
+            vis.add(i)
         
         return False
