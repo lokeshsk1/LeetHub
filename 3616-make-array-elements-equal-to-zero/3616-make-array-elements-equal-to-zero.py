@@ -4,14 +4,13 @@ class Solution:
         n = len(nums)
 
         tot = sum(nums)
-        tot_till = 0
+        left_sum = 0
         res = 0
 
         for i in range(n):
 
-            left_sum = tot_till
-            tot_till += nums[i]
-            right_sum = tot - tot_till
+            left_sum += nums[i]
+            right_sum = tot - left_sum
 
             if nums[i] == 0:
                 if abs(left_sum - right_sum) == 1:
