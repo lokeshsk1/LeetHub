@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lokeshsk1/LeetHub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lokeshsk1/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/lokeshsk1/LeetHub/tree/master/3616-make-array-elements-equal-to-zero) |
+| [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/lokeshsk1/LeetHub/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lokeshsk1/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lokeshsk1/LeetHub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/lokeshsk1/LeetHub/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Counting
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/lokeshsk1/LeetHub/tree/master/1940-maximum-xor-for-each-query) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/lokeshsk1/LeetHub/tree/master/3616-make-array-elements-equal-to-zero) |
+| [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/lokeshsk1/LeetHub/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Two Pointers
 |  |
 | ------- |
