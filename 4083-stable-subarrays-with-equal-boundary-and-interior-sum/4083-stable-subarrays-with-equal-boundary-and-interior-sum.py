@@ -11,10 +11,9 @@ class Solution:
 
         for i in range(1, len(nums)):
             
-            n = nums[i]
-            target = psum[i] - 2*n
+            target = psum[i] - 2*nums[i]
             
-            res += hmap[n][target]
+            res += hmap[nums[i]][target]
 
             hmap[nums[i-1]][psum[i-1]] += 1
 
