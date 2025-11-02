@@ -17,14 +17,10 @@ class Solution:
         for x,y in dirs:
             u = I+x; v = J+y
 
-            while 0<=u<m and 0<=v<n:
-                print(u,v)
+            while 0<=u<m and 0<=v<n and board[u][v] != 'B':
 
                 if board[u][v] == 'p':
-                    print("*", u, v)
                     res += 1
-                    break
-                if board[u][v] == 'B':
                     break
                 
                 u += x
