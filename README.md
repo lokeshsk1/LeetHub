@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/lokeshsk1/LeetHub/tree/master/0062-unique-paths) |
 | [0343-integer-break](https://github.com/lokeshsk1/LeetHub/tree/master/0343-integer-break) |
+| [2812-find-the-maximum-achievable-number](https://github.com/lokeshsk1/LeetHub/tree/master/2812-find-the-maximum-achievable-number) |
 ## Dynamic Programming
 |  |
 | ------- |
