@@ -7,5 +7,7 @@ class Solution:
         for i in order:
             if i in friends:
                 res.append(i)
+            if len(res) == len(friends):
+                break
         
         return res
