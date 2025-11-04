@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/lokeshsk1/LeetHub/tree/master/0006-zigzag-conversion) |
+| [0242-valid-anagram](https://github.com/lokeshsk1/LeetHub/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/lokeshsk1/LeetHub/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/lokeshsk1/LeetHub/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lokeshsk1/LeetHub/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -82,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/lokeshsk1/LeetHub/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lokeshsk1/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lokeshsk1/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/lokeshsk1/LeetHub/tree/master/0242-valid-anagram) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lokeshsk1/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lokeshsk1/LeetHub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [4008-restore-finishing-order](https://github.com/lokeshsk1/LeetHub/tree/master/4008-restore-finishing-order) |
