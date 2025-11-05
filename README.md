@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/lokeshsk1/LeetHub/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/lokeshsk1/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/lokeshsk1/LeetHub/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0063-unique-paths-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/lokeshsk1/LeetHub/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/lokeshsk1/LeetHub/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/lokeshsk1/LeetHub/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/lokeshsk1/LeetHub/tree/master/0242-valid-anagram) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lokeshsk1/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
