@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/lokeshsk1/LeetHub/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/lokeshsk1/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/lokeshsk1/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lokeshsk1/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/lokeshsk1/LeetHub/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/lokeshsk1/LeetHub/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/lokeshsk1/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/lokeshsk1/LeetHub/tree/master/0242-valid-anagram) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lokeshsk1/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lokeshsk1/LeetHub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0654-maximum-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/lokeshsk1/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
