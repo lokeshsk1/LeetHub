@@ -12,8 +12,7 @@ class Solution:
         
         for i,j in hmap.items():
             if len(j) >= 3:
-                print(j)
-                j.sort()
+                # j.sort()
                 for k in range(len(j)-2):
                     res = min(res, 2*(max(j[k:k+3]) - min(j[k:k+3])))
 
