@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/lokeshsk1/LeetHub/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/lokeshsk1/LeetHub/tree/master/0191-number-of-1-bits) |
 | [1940-maximum-xor-for-each-query](https://github.com/lokeshsk1/LeetHub/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lokeshsk1/LeetHub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lokeshsk1/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lokeshsk1/LeetHub/tree/master/0023-merge-k-sorted-lists) |
+| [0191-number-of-1-bits](https://github.com/lokeshsk1/LeetHub/tree/master/0191-number-of-1-bits) |
 | [0654-maximum-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [4045-longest-balanced-subarray-i](https://github.com/lokeshsk1/LeetHub/tree/master/4045-longest-balanced-subarray-i) |
 ## Merge Sort
