@@ -5,9 +5,10 @@ class Solution:
 
         while num1 and num2:
             if num1 > num2:
-                num1 -= num2
+                res += (num1 // num2)
+                num1 %= num2
             else:
-                num2 -= num1
-            res += 1
+                res += (num2 // num1)
+                num2 %= num1
         
         return res
