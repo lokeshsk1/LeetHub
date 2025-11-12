@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lokeshsk1/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0654-maximum-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0654-maximum-binary-tree) |
+| [0792-binary-search](https://github.com/lokeshsk1/LeetHub/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/lokeshsk1/LeetHub/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0967-minimum-falling-path-sum) |
 | [1041-available-captures-for-rook](https://github.com/lokeshsk1/LeetHub/tree/master/1041-available-captures-for-rook) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lokeshsk1/LeetHub/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lokeshsk1/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/lokeshsk1/LeetHub/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/lokeshsk1/LeetHub/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lokeshsk1/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Heap (Priority Queue)
