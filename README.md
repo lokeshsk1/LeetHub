@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/lokeshsk1/LeetHub/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/lokeshsk1/LeetHub/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lokeshsk1/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/lokeshsk1/LeetHub/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/lokeshsk1/LeetHub/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/lokeshsk1/LeetHub/tree/master/0343-integer-break) |
 | [0747-min-cost-climbing-stairs](https://github.com/lokeshsk1/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lokeshsk1/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/lokeshsk1/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/lokeshsk1/LeetHub/tree/master/0136-single-number) |
+| [0198-house-robber](https://github.com/lokeshsk1/LeetHub/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/lokeshsk1/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/lokeshsk1/LeetHub/tree/master/0268-missing-number) |
