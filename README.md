@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0967-minimum-falling-path-sum) |
 | [1041-available-captures-for-rook](https://github.com/lokeshsk1/LeetHub/tree/master/1041-available-captures-for-rook) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lokeshsk1/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lokeshsk1/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/lokeshsk1/LeetHub/tree/master/1580-shuffle-the-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lokeshsk1/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1940-maximum-xor-for-each-query](https://github.com/lokeshsk1/LeetHub/tree/master/1940-maximum-xor-for-each-query) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lokeshsk1/LeetHub/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lokeshsk1/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lokeshsk1/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lokeshsk1/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lokeshsk1/LeetHub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lokeshsk1/LeetHub/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lokeshsk1/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lokeshsk1/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lokeshsk1/LeetHub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [4008-restore-finishing-order](https://github.com/lokeshsk1/LeetHub/tree/master/4008-restore-finishing-order) |
 | [4045-longest-balanced-subarray-i](https://github.com/lokeshsk1/LeetHub/tree/master/4045-longest-balanced-subarray-i) |
@@ -239,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lokeshsk1/LeetHub/tree/master/0070-climbing-stairs) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lokeshsk1/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
