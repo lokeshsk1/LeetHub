@@ -10,11 +10,10 @@ class Solution {
 
         for(int i=1; i<count.length; i++){
             count[i] += count[i-1];
-            System.out.print(count[i] + " ");
         }
 
         for(int i=0; i<nums.length; i++){
-            if(nums[i] == 0 || count[nums[i]] == 0){
+            if(nums[i] == 0){
                 res[i] = 0;
             }else{
                 res[i] = count[nums[i]-1];
