@@ -1,7 +1,7 @@
 class MyHashSet:
 
     def __init__(self):
-        self.hash_set = [False]*(10**6 + 1)
+        self.hash_set = defaultdict(bool)
         
 
     def add(self, key: int) -> None:
