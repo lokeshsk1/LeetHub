@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/lokeshsk1/LeetHub/tree/master/1940-maximum-xor-for-each-query) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lokeshsk1/LeetHub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2058-concatenation-of-array](https://github.com/lokeshsk1/LeetHub/tree/master/2058-concatenation-of-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/lokeshsk1/LeetHub/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lokeshsk1/LeetHub/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lokeshsk1/LeetHub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lokeshsk1/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lokeshsk1/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lokeshsk1/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/lokeshsk1/LeetHub/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lokeshsk1/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/lokeshsk1/LeetHub/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/lokeshsk1/LeetHub/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lokeshsk1/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/lokeshsk1/LeetHub/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/lokeshsk1/LeetHub/tree/master/0011-container-with-most-water) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lokeshsk1/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/lokeshsk1/LeetHub/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Stack
 |  |
 | ------- |
