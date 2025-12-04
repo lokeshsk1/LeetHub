@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/lokeshsk1/LeetHub/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/lokeshsk1/LeetHub/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/lokeshsk1/LeetHub/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/lokeshsk1/LeetHub/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/lokeshsk1/LeetHub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lokeshsk1/LeetHub/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lokeshsk1/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lokeshsk1/LeetHub/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/lokeshsk1/LeetHub/tree/master/0146-lru-cache) |
 | [0705-design-hashset](https://github.com/lokeshsk1/LeetHub/tree/master/0705-design-hashset) |
 ## Divide and Conquer
 |  |
@@ -263,9 +265,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/lokeshsk1/LeetHub/tree/master/0146-lru-cache) |
 | [0705-design-hashset](https://github.com/lokeshsk1/LeetHub/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/lokeshsk1/LeetHub/tree/master/0705-design-hashset) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/lokeshsk1/LeetHub/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
