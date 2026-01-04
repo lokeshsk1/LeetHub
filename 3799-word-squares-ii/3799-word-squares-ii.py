@@ -4,13 +4,13 @@ class Solution:
         res = []
         n = len(words)
         
-        for i in range(n):
-            for j in range(n):
-                for k in range(n):
-                    for l in range(n):
-                        if words[i][0] == words[j][0] and words[i][-1] == words[k][0]:
-                            if words[l][0] == words[j][-1] and words[l][-1] == words[k][-1]:
-                                square = [words[i], words[j], words[k], words[l]]
+        for top in words:
+            for left in words:
+                for right in words:
+                    for bottom in words:
+                        if top[0] == left[0] and top[-1] == right[0]:
+                            if bottom[0] == left[-1] and bottom[-1] == right[-1]:
+                                square = [top, left, right, bottom]
                                 if len(set(square)) == 4:
                                     res.append(square)
 
