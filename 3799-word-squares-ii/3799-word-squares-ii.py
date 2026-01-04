@@ -2,7 +2,6 @@ class Solution:
     def wordSquares(self, words: List[str]) -> List[List[str]]:
 
         res = []
-        n = len(words)
         
         for top in words:
             for left in words:
