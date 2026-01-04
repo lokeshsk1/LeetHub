@@ -16,6 +16,8 @@ class Solution:
                     else:
                         tot += one
                         div += 1
+                if div > 4:
+                    break
             if div == 4:
                 res += tot
         
