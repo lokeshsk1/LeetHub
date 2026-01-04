@@ -14,5 +14,4 @@ class Solution:
                                 if len(set(square)) == 4:
                                     res.append(square)
 
-        res.sort()
-        return res
+        return sorted(res)
