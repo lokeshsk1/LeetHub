@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lokeshsk1/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1940-maximum-xor-for-each-query](https://github.com/lokeshsk1/LeetHub/tree/master/1940-maximum-xor-for-each-query) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lokeshsk1/LeetHub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1975-maximum-matrix-sum](https://github.com/lokeshsk1/LeetHub/tree/master/1975-maximum-matrix-sum) |
 | [2058-concatenation-of-array](https://github.com/lokeshsk1/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/lokeshsk1/LeetHub/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lokeshsk1/LeetHub/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0967-minimum-falling-path-sum) |
 | [1041-available-captures-for-rook](https://github.com/lokeshsk1/LeetHub/tree/master/1041-available-captures-for-rook) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1975-maximum-matrix-sum](https://github.com/lokeshsk1/LeetHub/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lokeshsk1/LeetHub/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Bit Manipulation
 |  |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/lokeshsk1/LeetHub/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/lokeshsk1/LeetHub/tree/master/0055-jump-game) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lokeshsk1/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/lokeshsk1/LeetHub/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/lokeshsk1/LeetHub/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Stack
 |  |
