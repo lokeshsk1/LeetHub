@@ -2,8 +2,8 @@ class Solution:
     def maxMatrixSum(self, matrix: List[List[int]]) -> int:
         
         res = 0
-        m = len(matrix) ; n = len(matrix[0])
         negs = 0
+        m = len(matrix) ; n = len(matrix[0])
         mini = float("inf")
 
         for i in range(m):
