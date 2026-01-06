@@ -10,34 +10,25 @@ class Solution:
         q = deque([root])
         tot_max = root.val
         res = 1
-        lvl = 1
+        lvl = 0
 
         while q:
 
             lvl += 1
             tot = 0
             n = len(q)
-            flag = 0
-
-            print(lvl, n)
 
             for _ in range(n):
                 curr = q.popleft()
+                tot += curr.val
                 if curr.left:
-                    flag = 1
-                    q.append(curr.left)
-                    tot += curr.left.val
+                    q.append(curr.left)                    
                 if curr.right:
-                    flag = 1
                     q.append(curr.right)
-                    tot += curr.right.val
             
-            if flag and tot > tot_max:
+            if tot > tot_max:
                 tot_max = tot
                 res = lvl
-
-            
-
         
         return res
 
