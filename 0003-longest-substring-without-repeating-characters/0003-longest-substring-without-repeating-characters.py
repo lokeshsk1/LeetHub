@@ -8,14 +8,13 @@ class Solution:
         for i in range(len(s)):
 
             if s[i] in hmap:
-                l = max(l, hmap[s[i]] + 1)
-
+                l = max(l, hmap[s[i]]+1)
+                        
             res = max(res, i-l+1)
             hmap[s[i]] = i
-            print(i,l)
-        
+
+            print(l)
+
         return res
-
-
-
             
+
