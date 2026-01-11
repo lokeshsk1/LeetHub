@@ -4,20 +4,29 @@ class Solution:
         res = []
         nums.sort()
 
-        for i, e in enumerate(nums):
+        for i in range(len(nums)-2):
 
             if i>0 and nums[i-1] == nums[i]:
                 continue
 
-            target = -e
+            left = i+1
+            right = len(nums)-1
 
-            hmap = {}
+            while left < right:
 
-            for j in range(i+1, len(nums)):
-                if target - nums[j] in hmap:
-                    l = [ nums[i], nums[hmap[target-nums[j]]], nums[j] ]
-                    res.append(sorted(l))
-                hmap[nums[j]] = j
-        
-        
-        return list(set(map(tuple, res)))
+                tripSum = nums[i] + nums[left] + nums[right]
+
+                if tripSum < 0:
+                    left += 1
+                elif tripSum > 0:
+                    right -= 1
+                else:
+                    trip = [nums[i], nums[left], nums[right]]
+                    res.append(trip)
+                    # left += 1
+                    right -= 1
+
+                    while left < right and nums[left] == nums[left+1]:
+                        left += 1
+
+        return res
