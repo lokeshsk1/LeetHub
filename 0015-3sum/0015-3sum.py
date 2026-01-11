@@ -23,10 +23,11 @@ class Solution:
                 else:
                     trip = [nums[i], nums[left], nums[right]]
                     res.append(trip)
-                    # left += 1
-                    right -= 1
-
+                    
                     while left < right and nums[left] == nums[left+1]:
                         left += 1
+
+                    left += 1
+                    right -= 1
 
         return res
