@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/lokeshsk1/LeetHub/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/lokeshsk1/LeetHub/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/lokeshsk1/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/lokeshsk1/LeetHub/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lokeshsk1/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/lokeshsk1/LeetHub/tree/master/0198-house-robber) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/lokeshsk1/LeetHub/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/lokeshsk1/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/lokeshsk1/LeetHub/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lokeshsk1/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/lokeshsk1/LeetHub/tree/master/0128-longest-consecutive-sequence) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/lokeshsk1/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0967-minimum-falling-path-sum) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lokeshsk1/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/lokeshsk1/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0654-maximum-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [1552-build-an-array-with-stack-operations](https://github.com/lokeshsk1/LeetHub/tree/master/1552-build-an-array-with-stack-operations) |
 ## Tree
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lokeshsk1/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/lokeshsk1/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0654-maximum-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0654-maximum-binary-tree) |
 ## Binary Tree
 |  |
