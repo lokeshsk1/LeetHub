@@ -7,11 +7,6 @@ class KthLargest:
 
         heapq.heapify(self.pq)
         
-        # diff = len(nums) - self.k
-        # if diff > 0:
-        #     for _ in range(diff):
-        #         heapq.heappop(self.pq)
-
         while len(self.pq) > self.k:
             heapq.heappop(self.pq)
         
