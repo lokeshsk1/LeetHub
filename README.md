@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/lokeshsk1/LeetHub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lokeshsk1/LeetHub/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/lokeshsk1/LeetHub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/lokeshsk1/LeetHub/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/lokeshsk1/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/lokeshsk1/LeetHub/tree/master/0075-sort-colors) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/lokeshsk1/LeetHub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/lokeshsk1/LeetHub/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/lokeshsk1/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/lokeshsk1/LeetHub/tree/master/0146-lru-cache) |
