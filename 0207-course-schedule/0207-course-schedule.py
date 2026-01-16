@@ -3,7 +3,7 @@ class Solution:
         
         self.adj = [[] for _ in range(n)]
         for i,j in pre:
-            self.adj[i].append(j)
+            self.adj[j].append(i)
 
         self.vis = [0]*n
         for i in range(n):
