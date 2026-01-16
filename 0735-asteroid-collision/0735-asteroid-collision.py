@@ -10,14 +10,13 @@ class Solution:
                 diff  = st[-1] - (-i)
 
                 if diff > 0:
-                    i = 0
+                    break
                 elif diff < 0:
                     st.pop()
                 else:
                     st.pop()
-                    i = 0
-
-            if i:
+                    break
+            else:
                 st.append(i)
 
         return st
