@@ -19,7 +19,7 @@ class Solution:
 
             if i:
                 st.append(i)
-        
+
         return st
 
 
