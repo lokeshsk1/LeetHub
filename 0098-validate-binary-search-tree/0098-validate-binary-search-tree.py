@@ -8,23 +8,22 @@ class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
 
         self.prev = None
-        self.ino = []
-        self.inorder(root)
-        print(self.ino)
-        
-        for i in range(1, len(self.ino)):
-            if self.ino[i] <= self.ino[i-1]:
-                return False
-            
-        return True
+        return self.inorder(root)
 
     def inorder(self, root):
 
+
         if not root:
-            return
+            return True
         
-        self.inorder(root.left)
+        if not self.inorder(root.left):
+            return False
 
-        self.ino.append(root.val)
+        print(root.val, self.prev if self.prev else None)
 
-        self.inorder(root.right)
+        if self.prev and self.prev.val >= root.val:
+            return False
+        
+        self.prev = root
+
+        return self.inorder(root.right)
