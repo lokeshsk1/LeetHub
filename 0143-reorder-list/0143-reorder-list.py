@@ -12,7 +12,6 @@ class Solution:
         middle = self.middle(head)
         rev = self.reverse(middle)
         res = ListNode(-1)
-        res2 = res
 
         while rev:
             
