@@ -14,8 +14,6 @@ class Solution:
         res = ListNode(-1)
         res2 = res
 
-        print(middle, rev)
-
         while rev:
             
             if start != middle:
@@ -27,10 +25,6 @@ class Solution:
             rev = rev.next
             res = res.next
         
-        return res2
-
-
-
 
     def middle(self, head):
 
