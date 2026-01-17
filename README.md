@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/lokeshsk1/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lokeshsk1/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/lokeshsk1/LeetHub/tree/master/0295-find-median-from-data-stream) |
+| [0876-middle-of-the-linked-list](https://github.com/lokeshsk1/LeetHub/tree/master/0876-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lokeshsk1/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lokeshsk1/LeetHub/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Binary Search
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/lokeshsk1/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/lokeshsk1/LeetHub/tree/master/0146-lru-cache) |
 | [0705-design-hashset](https://github.com/lokeshsk1/LeetHub/tree/master/0705-design-hashset) |
+| [0876-middle-of-the-linked-list](https://github.com/lokeshsk1/LeetHub/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
