@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lokeshsk1/LeetHub/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lokeshsk1/LeetHub/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/lokeshsk1/LeetHub/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/lokeshsk1/LeetHub/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/lokeshsk1/LeetHub/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/lokeshsk1/LeetHub/tree/master/0463-island-perimeter) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Data Stream
