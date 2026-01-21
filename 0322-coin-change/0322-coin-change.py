@@ -22,7 +22,6 @@ class Solution:
         self.amount = amount
         self.memo = [-1] * (amount+1)
         self.recurse(amount)
-        print(self.memo)
         return self.memo[amount] if self.memo[amount] != amount+1 else -1
 
     def recurse(self, amount):
@@ -41,5 +40,4 @@ class Solution:
                 mini = min(mini, self.recurse(amount - c) + 1)
         
         self.memo[amount] = mini
-
         return mini
