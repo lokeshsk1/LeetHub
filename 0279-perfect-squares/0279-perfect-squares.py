@@ -1,16 +1,12 @@
 class Solution:
     def numSquares(self, n: int) -> int:
 
-        dp = [n+1] * (n+1)
+        dp = [i for i in range(n+1)]
         
         for i in range(0, n+1):
-            if i < 4:
-                dp[i] = i
-            else:
-                for j in range(1, int(i**0.5) + 1):
-                    dp[i] = min(dp[i], 1 + dp[i - (j*j)])
+            for j in range(1, int(i**0.5) + 1):
+                dp[i] = min(dp[i], 1 + dp[i - (j*j)])
 
-        print(dp)
         return dp[n]
 
     #     self.memo = [-1] * (n+1)
