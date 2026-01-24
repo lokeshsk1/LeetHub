@@ -25,14 +25,25 @@ class Solution:
     #     return self.memo[n]
 
     #DP
+    # def fib(self, n: int) -> int:
+
+    #     dp = [0,1]
+
+    #     for i in range(2, n+1):
+    #         dp.append(dp[i-2] + dp[i-1])
+        
+    #     return dp[n]
+
+    #DP2
     def fib(self, n: int) -> int:
 
-        dp = [0,1]
+        p2 = 0; p1 = 1
 
-        for i in range(2, n+1):
-            dp.append(dp[i-2] + dp[i-1])
+        for i in range(n):
+            p2, p1 = p1, p2+p1
         
-        return dp[n]
+        return p2
+
 
 
         
