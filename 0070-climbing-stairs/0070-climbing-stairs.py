@@ -1,12 +1,9 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
         
+        p1, p2 = 1, 2
 
-        a = 1; b = 1
-
-        #1 1 2 3 5 8
-
-        for _ in range(n-1):
-            a , b = b, a+b
+        for i in range(n-1):
+            p1, p2 = p2, p1 + p2
         
-        return b
+        return p1
