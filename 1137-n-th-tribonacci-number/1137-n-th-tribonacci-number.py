@@ -1,9 +1,9 @@
 class Solution:
     def tribonacci(self, n: int) -> int:
         
-        a = 0; b = 1; c = 1
+        p3 = 0; p2 = 1; p1 = 1
 
         for i in range(n):
-            a, b, c = b, c, c+b+a
+            p3, p2, p1 = p2, p1, p3+p2+p1
         
-        return a
+        return p3
