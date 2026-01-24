@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/lokeshsk1/LeetHub/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/lokeshsk1/LeetHub/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/lokeshsk1/LeetHub/tree/master/0973-k-closest-points-to-origin) |
+| [1137-n-th-tribonacci-number](https://github.com/lokeshsk1/LeetHub/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/lokeshsk1/LeetHub/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/lokeshsk1/LeetHub/tree/master/1390-four-divisors) |
 | [2288-count-operations-to-obtain-zero](https://github.com/lokeshsk1/LeetHub/tree/master/2288-count-operations-to-obtain-zero) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/lokeshsk1/LeetHub/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/lokeshsk1/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0967-minimum-falling-path-sum) |
+| [1137-n-th-tribonacci-number](https://github.com/lokeshsk1/LeetHub/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/lokeshsk1/LeetHub/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/lokeshsk1/LeetHub/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/lokeshsk1/LeetHub/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/lokeshsk1/LeetHub/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/lokeshsk1/LeetHub/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/lokeshsk1/LeetHub/tree/master/1137-n-th-tribonacci-number) |
 ## Counting Sort
 |  |
 | ------- |
