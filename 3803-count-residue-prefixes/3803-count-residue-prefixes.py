@@ -2,12 +2,14 @@ class Solution:
     def residuePrefixes(self, s: str) -> int:
         
         res = 0
-        pre = ""
+        uniq = set()
 
-        for i in s:
-            pre += i
+        for i in range(len(s)):
+            uniq.add(s[i])
 
-            if len(pre) % 3 == len(list(set(pre))):
+            if (i+1) % 3 == len(uniq):
                 res += 1
+            if len(uniq) > 2:
+                break
         
         return res
