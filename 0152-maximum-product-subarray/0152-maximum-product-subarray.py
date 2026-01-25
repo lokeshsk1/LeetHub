@@ -5,8 +5,8 @@ class Solution:
 
         for i in range(1, len(nums)):
             tmp = currMax
-            currMax = max(currMin*nums[i], tmp*nums[i], nums[i])
-            currMin = min(currMin*nums[i], tmp*nums[i], nums[i])
+            currMax = max(tmp*nums[i], nums[i], currMin*nums[i])
+            currMin = min(tmp*nums[i], nums[i], currMin*nums[i])
             res = max(res, currMax)
 
         return res
