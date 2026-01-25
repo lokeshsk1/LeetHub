@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/lokeshsk1/LeetHub/tree/master/3451-string-compression-iii) |
 | [3606-coupon-code-validator](https://github.com/lokeshsk1/LeetHub/tree/master/3606-coupon-code-validator) |
 | [3636-check-balanced-string](https://github.com/lokeshsk1/LeetHub/tree/master/3636-check-balanced-string) |
+| [3803-count-residue-prefixes](https://github.com/lokeshsk1/LeetHub/tree/master/3803-count-residue-prefixes) |
 ## String Matching
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lokeshsk1/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lokeshsk1/LeetHub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3606-coupon-code-validator](https://github.com/lokeshsk1/LeetHub/tree/master/3606-coupon-code-validator) |
+| [3803-count-residue-prefixes](https://github.com/lokeshsk1/LeetHub/tree/master/3803-count-residue-prefixes) |
 | [4008-restore-finishing-order](https://github.com/lokeshsk1/LeetHub/tree/master/4008-restore-finishing-order) |
 | [4045-longest-balanced-subarray-i](https://github.com/lokeshsk1/LeetHub/tree/master/4045-longest-balanced-subarray-i) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/lokeshsk1/LeetHub/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
