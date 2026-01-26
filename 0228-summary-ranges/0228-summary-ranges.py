@@ -14,13 +14,13 @@ class Solution:
                     res.append(str(nums[l]))
                 else:
                     res.append(str(nums[l]) + '->' + str(nums[i-1]))
-                if i < len(nums):
-                    l = i
+                l = i
 
         if nums[l] == nums[-1]:
             res.append(str(nums[l]))
         else:
             res.append(str(nums[l]) + "->" + str(nums[-1]))
+
         return res
 
 
