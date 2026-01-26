@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/lokeshsk1/LeetHub/tree/master/2288-count-operations-to-obtain-zero) |
 | [2812-find-the-maximum-achievable-number](https://github.com/lokeshsk1/LeetHub/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/lokeshsk1/LeetHub/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3516-find-closest-person](https://github.com/lokeshsk1/LeetHub/tree/master/3516-find-closest-person) |
 ## Dynamic Programming
 |  |
 | ------- |
