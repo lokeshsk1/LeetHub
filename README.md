@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/lokeshsk1/LeetHub/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/lokeshsk1/LeetHub/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/lokeshsk1/LeetHub/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/lokeshsk1/LeetHub/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/lokeshsk1/LeetHub/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/lokeshsk1/LeetHub/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/lokeshsk1/LeetHub/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lokeshsk1/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/lokeshsk1/LeetHub/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/lokeshsk1/LeetHub/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/lokeshsk1/LeetHub/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/lokeshsk1/LeetHub/tree/master/0072-edit-distance) |
 | [0171-excel-sheet-column-number](https://github.com/lokeshsk1/LeetHub/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/lokeshsk1/LeetHub/tree/master/0242-valid-anagram) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/lokeshsk1/LeetHub/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/lokeshsk1/LeetHub/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/lokeshsk1/LeetHub/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/lokeshsk1/LeetHub/tree/master/0191-number-of-1-bits) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/lokeshsk1/LeetHub/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/lokeshsk1/LeetHub/tree/master/0735-asteroid-collision) |
 | [1041-available-captures-for-rook](https://github.com/lokeshsk1/LeetHub/tree/master/1041-available-captures-for-rook) |
 | [1552-build-an-array-with-stack-operations](https://github.com/lokeshsk1/LeetHub/tree/master/1552-build-an-array-with-stack-operations) |
