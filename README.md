@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/lokeshsk1/LeetHub/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/lokeshsk1/LeetHub/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/lokeshsk1/LeetHub/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/lokeshsk1/LeetHub/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/lokeshsk1/LeetHub/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/lokeshsk1/LeetHub/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/lokeshsk1/LeetHub/tree/master/0343-integer-break) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/lokeshsk1/LeetHub/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/lokeshsk1/LeetHub/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/lokeshsk1/LeetHub/tree/master/0735-asteroid-collision) |
 | [1041-available-captures-for-rook](https://github.com/lokeshsk1/LeetHub/tree/master/1041-available-captures-for-rook) |
 | [1552-build-an-array-with-stack-operations](https://github.com/lokeshsk1/LeetHub/tree/master/1552-build-an-array-with-stack-operations) |
@@ -549,4 +551,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/lokeshsk1/LeetHub/tree/master/0182-duplicate-emails) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/lokeshsk1/LeetHub/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
