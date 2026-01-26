@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/lokeshsk1/LeetHub/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/lokeshsk1/LeetHub/tree/master/0072-edit-distance) |
 | [0171-excel-sheet-column-number](https://github.com/lokeshsk1/LeetHub/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/lokeshsk1/LeetHub/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/lokeshsk1/LeetHub/tree/master/0242-valid-anagram) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/lokeshsk1/LeetHub/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0812-rotate-string](https://github.com/lokeshsk1/LeetHub/tree/master/0812-rotate-string) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/lokeshsk1/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/lokeshsk1/LeetHub/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/lokeshsk1/LeetHub/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/lokeshsk1/LeetHub/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/lokeshsk1/LeetHub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lokeshsk1/LeetHub/tree/master/0268-missing-number) |
