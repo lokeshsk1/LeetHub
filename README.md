@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/lokeshsk1/LeetHub/tree/master/2288-count-operations-to-obtain-zero) |
 | [2812-find-the-maximum-achievable-number](https://github.com/lokeshsk1/LeetHub/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/lokeshsk1/LeetHub/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/lokeshsk1/LeetHub/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3516-find-closest-person](https://github.com/lokeshsk1/LeetHub/tree/master/3516-find-closest-person) |
 ## Dynamic Programming
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/lokeshsk1/LeetHub/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lokeshsk1/LeetHub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lokeshsk1/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/lokeshsk1/LeetHub/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/lokeshsk1/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/lokeshsk1/LeetHub/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lokeshsk1/LeetHub/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/lokeshsk1/LeetHub/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/lokeshsk1/LeetHub/tree/master/3477-fruits-into-baskets-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/lokeshsk1/LeetHub/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Segment Tree
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/lokeshsk1/LeetHub/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/lokeshsk1/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/lokeshsk1/LeetHub/tree/master/0509-fibonacci-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/lokeshsk1/LeetHub/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
 |  |
 | ------- |
