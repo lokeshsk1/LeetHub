@@ -1,10 +1,16 @@
 class Solution:
     def buyChoco(self, prices: List[int], money: int) -> int:
         
-        prices.sort()
+        min1 = min2 = float("inf")
 
-        tot = prices[0] + prices[1]
+        for i in prices:
 
-        if tot <= money:
-            return money - tot
-        return money
+            if i < min1:
+                min1, min2 = i, min1
+            elif i < min2:
+                min2 = i
+        
+        res = money - min1 - min2
+        if res < 0:
+            return money
+        return res
