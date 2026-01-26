@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lokeshsk1/LeetHub/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lokeshsk1/LeetHub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2706-buy-two-chocolates](https://github.com/lokeshsk1/LeetHub/tree/master/2706-buy-two-chocolates) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/lokeshsk1/LeetHub/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lokeshsk1/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
 | [3453-separate-squares-i](https://github.com/lokeshsk1/LeetHub/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/lokeshsk1/LeetHub/tree/master/3454-separate-squares-ii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/lokeshsk1/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lokeshsk1/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lokeshsk1/LeetHub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/lokeshsk1/LeetHub/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/lokeshsk1/LeetHub/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/lokeshsk1/LeetHub/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3606-coupon-code-validator](https://github.com/lokeshsk1/LeetHub/tree/master/3606-coupon-code-validator) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lokeshsk1/LeetHub/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/lokeshsk1/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lokeshsk1/LeetHub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/lokeshsk1/LeetHub/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/lokeshsk1/LeetHub/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/lokeshsk1/LeetHub/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Prefix Sum
