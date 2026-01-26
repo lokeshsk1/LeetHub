@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/lokeshsk1/LeetHub/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/lokeshsk1/LeetHub/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/lokeshsk1/LeetHub/tree/master/1266-minimum-time-visiting-all-points) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/lokeshsk1/LeetHub/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1390-four-divisors](https://github.com/lokeshsk1/LeetHub/tree/master/1390-four-divisors) |
 | [2288-count-operations-to-obtain-zero](https://github.com/lokeshsk1/LeetHub/tree/master/2288-count-operations-to-obtain-zero) |
 | [2812-find-the-maximum-achievable-number](https://github.com/lokeshsk1/LeetHub/tree/master/2812-find-the-maximum-achievable-number) |
