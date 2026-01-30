@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/lokeshsk1/LeetHub/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/lokeshsk1/LeetHub/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/lokeshsk1/LeetHub/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/lokeshsk1/LeetHub/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/lokeshsk1/LeetHub/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/lokeshsk1/LeetHub/tree/master/1137-n-th-tribonacci-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lokeshsk1/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/lokeshsk1/LeetHub/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/lokeshsk1/LeetHub/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lokeshsk1/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0654-maximum-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0705-design-hashset](https://github.com/lokeshsk1/LeetHub/tree/master/0705-design-hashset) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lokeshsk1/LeetHub/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/lokeshsk1/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lokeshsk1/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [0705-design-hashset](https://github.com/lokeshsk1/LeetHub/tree/master/0705-design-hashset) |
 | [0740-delete-and-earn](https://github.com/lokeshsk1/LeetHub/tree/master/0740-delete-and-earn) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/lokeshsk1/LeetHub/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lokeshsk1/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/lokeshsk1/LeetHub/tree/master/0304-range-sum-query-2d-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/lokeshsk1/LeetHub/tree/master/1940-maximum-xor-for-each-query) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/lokeshsk1/LeetHub/tree/master/3616-make-array-elements-equal-to-zero) |
 | [4045-longest-balanced-subarray-i](https://github.com/lokeshsk1/LeetHub/tree/master/4045-longest-balanced-subarray-i) |
