@@ -1,18 +1,24 @@
 class Solution:
     def checkSubarraySum(self, nums: List[int], k: int) -> bool:
-
-        prefix_mod_hash = dict()
-        tot = 0
-
-        for i,e in enumerate(nums):
-            tot += e
-
-            if tot % k == 0 and i >= 1:
-                return True
-            if tot % k in prefix_mod_hash and i - prefix_mod_hash[tot % k] >= 2:
-                return True
-
-            if tot % k not in prefix_mod_hash:
-                prefix_mod_hash[tot % k] = i
         
+        hmap = dict()
+        hmap[0] = -1
+        preSum = 0
+
+        # 2 9 11 15
+        # 2 11 22 37
+        # 2 4 1 2
+
+        for i in range(len(nums)):
+            preSum = (preSum + nums[i]) % k
+
+            if preSum not in hmap:
+                hmap[preSum] = i
+            elif i - hmap[preSum] >= 2:
+                return True
+
         return False
+            
+        
+            
+
