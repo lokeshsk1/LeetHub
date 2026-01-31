@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lokeshsk1/LeetHub/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/lokeshsk1/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/lokeshsk1/LeetHub/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/lokeshsk1/LeetHub/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lokeshsk1/LeetHub/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lokeshsk1/LeetHub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2706-buy-two-chocolates](https://github.com/lokeshsk1/LeetHub/tree/master/2706-buy-two-chocolates) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/lokeshsk1/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lokeshsk1/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/lokeshsk1/LeetHub/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/lokeshsk1/LeetHub/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/lokeshsk1/LeetHub/tree/master/2706-buy-two-chocolates) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lokeshsk1/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
 | [3606-coupon-code-validator](https://github.com/lokeshsk1/LeetHub/tree/master/3606-coupon-code-validator) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lokeshsk1/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/lokeshsk1/LeetHub/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/lokeshsk1/LeetHub/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3453-separate-squares-i](https://github.com/lokeshsk1/LeetHub/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/lokeshsk1/LeetHub/tree/master/3454-separate-squares-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/lokeshsk1/LeetHub/tree/master/3477-fruits-into-baskets-ii) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lokeshsk1/LeetHub/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/lokeshsk1/LeetHub/tree/master/0973-k-closest-points-to-origin) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/lokeshsk1/LeetHub/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lokeshsk1/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1975-maximum-matrix-sum](https://github.com/lokeshsk1/LeetHub/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/lokeshsk1/LeetHub/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/lokeshsk1/LeetHub/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/lokeshsk1/LeetHub/tree/master/2706-buy-two-chocolates) |
 ## Stack
 |  |
