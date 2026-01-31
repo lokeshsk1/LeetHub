@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/lokeshsk1/LeetHub/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/lokeshsk1/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/lokeshsk1/LeetHub/tree/master/0792-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/lokeshsk1/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/lokeshsk1/LeetHub/tree/master/0907-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/lokeshsk1/LeetHub/tree/master/0918-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/lokeshsk1/LeetHub/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [0705-design-hashset](https://github.com/lokeshsk1/LeetHub/tree/master/0705-design-hashset) |
 | [0740-delete-and-earn](https://github.com/lokeshsk1/LeetHub/tree/master/0740-delete-and-earn) |
+| [0904-fruit-into-baskets](https://github.com/lokeshsk1/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/lokeshsk1/LeetHub/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/lokeshsk1/LeetHub/tree/master/1207-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lokeshsk1/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lokeshsk1/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/lokeshsk1/LeetHub/tree/master/0904-fruit-into-baskets) |
 ## Memoization
 |  |
 | ------- |
