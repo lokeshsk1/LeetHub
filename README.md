@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lokeshsk1/LeetHub/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/lokeshsk1/LeetHub/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/lokeshsk1/LeetHub/tree/master/0342-power-of-four) |
+| [0868-binary-gap](https://github.com/lokeshsk1/LeetHub/tree/master/0868-binary-gap) |
 | [1940-maximum-xor-for-each-query](https://github.com/lokeshsk1/LeetHub/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lokeshsk1/LeetHub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lokeshsk1/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
