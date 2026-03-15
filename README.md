@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lokeshsk1/LeetHub/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/lokeshsk1/LeetHub/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lokeshsk1/LeetHub/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/lokeshsk1/LeetHub/tree/master/0062-unique-paths) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lokeshsk1/LeetHub/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lokeshsk1/LeetHub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/lokeshsk1/LeetHub/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lokeshsk1/LeetHub/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lokeshsk1/LeetHub/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/lokeshsk1/LeetHub/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/lokeshsk1/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/lokeshsk1/LeetHub/tree/master/0342-power-of-four) |
