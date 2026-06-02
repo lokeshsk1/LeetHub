@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/lokeshsk1/LeetHub/tree/master/3477-fruits-into-baskets-ii) |
 | [3606-coupon-code-validator](https://github.com/lokeshsk1/LeetHub/tree/master/3606-coupon-code-validator) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/lokeshsk1/LeetHub/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lokeshsk1/LeetHub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [4008-restore-finishing-order](https://github.com/lokeshsk1/LeetHub/tree/master/4008-restore-finishing-order) |
 | [4045-longest-balanced-subarray-i](https://github.com/lokeshsk1/LeetHub/tree/master/4045-longest-balanced-subarray-i) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/lokeshsk1/LeetHub/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/lokeshsk1/LeetHub/tree/master/2706-buy-two-chocolates) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lokeshsk1/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
 | [3606-coupon-code-validator](https://github.com/lokeshsk1/LeetHub/tree/master/3606-coupon-code-validator) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lokeshsk1/LeetHub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/lokeshsk1/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lokeshsk1/LeetHub/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lokeshsk1/LeetHub/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lokeshsk1/LeetHub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/lokeshsk1/LeetHub/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/lokeshsk1/LeetHub/tree/master/3454-separate-squares-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/lokeshsk1/LeetHub/tree/master/3477-fruits-into-baskets-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lokeshsk1/LeetHub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lokeshsk1/LeetHub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/lokeshsk1/LeetHub/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/lokeshsk1/LeetHub/tree/master/2706-buy-two-chocolates) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lokeshsk1/LeetHub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
 | ------- |
