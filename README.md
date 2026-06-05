@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/lokeshsk1/LeetHub/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3516-find-closest-person](https://github.com/lokeshsk1/LeetHub/tree/master/3516-find-closest-person) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/lokeshsk1/LeetHub/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/lokeshsk1/LeetHub/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/lokeshsk1/LeetHub/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lokeshsk1/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/lokeshsk1/LeetHub/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/lokeshsk1/LeetHub/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Combinatorics
 |  |
 | ------- |
