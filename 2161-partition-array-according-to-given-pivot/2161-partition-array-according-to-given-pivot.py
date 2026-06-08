@@ -1,16 +1,24 @@
 class Solution:
     def pivotArray(self, nums: List[int], pivot: int) -> List[int]:
         
-        left = []
-        right = []
-        pivot_count = 0
+        n = len(nums)
+        res = [pivot]*n
+        left = 0
+        right = n-1
 
-        for i in nums:
-            if i < pivot:
-                left.append(i)
-            elif i > pivot:
-                right.append(i)
-            else:
-                pivot_count += 1
+        for i,j in zip(range(len(nums)), range(len(nums)-1, -1, -1)):
+
+            if nums[i] < pivot:
+                res[left] = nums[i]
+                left += 1
+            if nums[j] > pivot:
+                res[right] = nums[j]
+                right -= 1
         
-        return left + [pivot]*pivot_count + right
+        # while left <= right:
+        #     res[left] = pivot
+        #     left += 1
+        
+        return res
+
+
