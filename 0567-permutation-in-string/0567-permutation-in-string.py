@@ -7,10 +7,9 @@ class Solution:
 
         for end in range(len(s1)-1, len(s2)):
 
-            if end - start + 1 > len(s1):
-                start += 1
-            
             if ''.join(sorted(s2[start:end+1])) == s1:
                 return True
+
+            start += 1
 
         return False
