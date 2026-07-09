@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/lokeshsk1/LeetHub/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/lokeshsk1/LeetHub/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/lokeshsk1/LeetHub/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/lokeshsk1/LeetHub/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/lokeshsk1/LeetHub/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/lokeshsk1/LeetHub/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/lokeshsk1/LeetHub/tree/master/0205-isomorphic-strings) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lokeshsk1/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/lokeshsk1/LeetHub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lokeshsk1/LeetHub/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/lokeshsk1/LeetHub/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/lokeshsk1/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/lokeshsk1/LeetHub/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lokeshsk1/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
