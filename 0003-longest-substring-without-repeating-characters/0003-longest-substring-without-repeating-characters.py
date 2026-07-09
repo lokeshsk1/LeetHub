@@ -10,11 +10,9 @@ class Solution:
             if e not in vis:
                 res = max(res, i - left + 1)
             else:
-                while s[left] != e:
+                while e in vis:
                     vis.remove(s[left])
                     left += 1
-                vis.remove(s[left])
-                left += 1
             vis.add(e)
 
         return res
