@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/lokeshsk1/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lokeshsk1/LeetHub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/lokeshsk1/LeetHub/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lokeshsk1/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/lokeshsk1/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/lokeshsk1/LeetHub/tree/master/0735-asteroid-collision) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lokeshsk1/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0654-maximum-binary-tree) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lokeshsk1/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0654-maximum-binary-tree) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lokeshsk1/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/lokeshsk1/LeetHub/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/lokeshsk1/LeetHub/tree/master/0463-island-perimeter) |
