@@ -19,11 +19,6 @@ class Solution:
         if self.prev and self.prev.val >= root.val:
             return False
         
-        pv = -1
-        if self.prev:
-            pv = self.prev.val
-
-        print(root.val, pv)
         self.prev = root
 
         if not self.isValidBST(root.right):
