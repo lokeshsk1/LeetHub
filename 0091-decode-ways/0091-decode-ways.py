@@ -7,35 +7,16 @@ class Solution:
         if len(s) == 1:
             return 1
 
-        dp = [0]*(len(s))
-        if s[0] != '0':
-            dp[0] = 1
+        dp = [0]*(len(s)+1)
+        dp[0] = 1
+        dp[1] = 1 if s[0] != '0' else 0
 
-        if int(s[0] + s[1]) in range(10,27):
-            dp[1] += 1
+        for i in range(2, len(s)+1):
 
-        if s[1] != '0':
-            dp[1] += 1
-
-
-        for i in range(2, len(s)):
-
-            if int(s[i-1] + s[i]) in range(10,27):
+            if int(s[i-2] + s[i-1]) in range(10,27):
                 dp[i] += dp[i-2]
-
-            print(dp, int(s[i-1] + s[i]) )
-
-            if s[i] != '0':
+ 
+            if s[i-1] != '0':
                 dp[i] += dp[i-1]
         
         return dp[-1]
-            
-
-
-
-
-# "226"
-
-# B
-# BB,  V
-# BBF, VF, BZ
