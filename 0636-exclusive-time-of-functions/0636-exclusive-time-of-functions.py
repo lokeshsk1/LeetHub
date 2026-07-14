@@ -22,5 +22,3 @@ class Solution:
                     res[start_idn1] -= diff_time
         
         return res
-
-
