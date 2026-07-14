@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/lokeshsk1/LeetHub/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/lokeshsk1/LeetHub/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/lokeshsk1/LeetHub/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lokeshsk1/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/lokeshsk1/LeetHub/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/lokeshsk1/LeetHub/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/lokeshsk1/LeetHub/tree/master/0268-missing-number) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lokeshsk1/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/lokeshsk1/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/lokeshsk1/LeetHub/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lokeshsk1/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/lokeshsk1/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lokeshsk1/LeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lokeshsk1/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/lokeshsk1/LeetHub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/lokeshsk1/LeetHub/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lokeshsk1/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lokeshsk1/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/lokeshsk1/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/lokeshsk1/LeetHub/tree/master/0735-asteroid-collision) |
