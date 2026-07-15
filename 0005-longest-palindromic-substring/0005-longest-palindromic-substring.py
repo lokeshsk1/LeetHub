@@ -1,0 +1,20 @@
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+
+        n = len(s)
+
+        dp = [[False]*n for _ in range(n)]
+
+        resI= 0; resJ = 0
+
+        for i in range(n-1, -1, -1):
+            for j in range(i, n):
+                if s[i] == s[j] and (j-i < 3 or dp[i+1][j-1]):
+                    dp[i][j] = True
+                    if resJ - resI < j - i:
+                        resI = i
+                        resJ = j
+
+        return s[resI:resJ+1]
+
+
