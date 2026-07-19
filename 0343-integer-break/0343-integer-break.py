@@ -2,9 +2,9 @@ class Solution:
     def integerBreak(self, n: int) -> int:
         
         dp = [1]*(n+1)
-        dp[0:4] = [0,1,1,2]
+        dp[0] = 0
 
-        for i in range(4, n+1):
+        for i in range(1, n+1):
             for j in range(i+1):
                 print(dp[i-j] , j)
                 dp[i] = max(dp[i], max(i-j, dp[i-j]) * j)
