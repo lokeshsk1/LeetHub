@@ -6,12 +6,6 @@ class Solution:
 
         for i in range(1, n+1):
             for j in range(i+1):
-                print(dp[i-j] , j)
                 dp[i] = max(dp[i], max(i-j, dp[i-j]) * j)
         
-        print(dp)
-
         return dp[n]
-
-        # dp[10] = max(dp[10/1] * 1)
-
