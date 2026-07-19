@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/lokeshsk1/LeetHub/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/lokeshsk1/LeetHub/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lokeshsk1/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/lokeshsk1/LeetHub/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/lokeshsk1/LeetHub/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/lokeshsk1/LeetHub/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Combinatorics
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lokeshsk1/LeetHub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lokeshsk1/LeetHub/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2580-circular-sentence](https://github.com/lokeshsk1/LeetHub/tree/master/2580-circular-sentence) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/lokeshsk1/LeetHub/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3136-valid-word](https://github.com/lokeshsk1/LeetHub/tree/master/3136-valid-word) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/lokeshsk1/LeetHub/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/lokeshsk1/LeetHub/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lokeshsk1/LeetHub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2574-left-and-right-sum-differences](https://github.com/lokeshsk1/LeetHub/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/lokeshsk1/LeetHub/tree/master/2706-buy-two-chocolates) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/lokeshsk1/LeetHub/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/lokeshsk1/LeetHub/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lokeshsk1/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
 | [3453-separate-squares-i](https://github.com/lokeshsk1/LeetHub/tree/master/3453-separate-squares-i) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lokeshsk1/LeetHub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/lokeshsk1/LeetHub/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/lokeshsk1/LeetHub/tree/master/2706-buy-two-chocolates) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/lokeshsk1/LeetHub/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lokeshsk1/LeetHub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/lokeshsk1/LeetHub/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/lokeshsk1/LeetHub/tree/master/3689-maximum-total-subarray-value-i) |
