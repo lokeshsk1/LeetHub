@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/lokeshsk1/LeetHub/tree/master/1191-k-concatenation-maximum-sum) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/lokeshsk1/LeetHub/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/lokeshsk1/LeetHub/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1626-best-team-with-no-conflicts](https://github.com/lokeshsk1/LeetHub/tree/master/1626-best-team-with-no-conflicts) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lokeshsk1/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/lokeshsk1/LeetHub/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/lokeshsk1/LeetHub/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lokeshsk1/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-build-an-array-with-stack-operations](https://github.com/lokeshsk1/LeetHub/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/lokeshsk1/LeetHub/tree/master/1580-shuffle-the-array) |
+| [1626-best-team-with-no-conflicts](https://github.com/lokeshsk1/LeetHub/tree/master/1626-best-team-with-no-conflicts) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lokeshsk1/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1940-maximum-xor-for-each-query](https://github.com/lokeshsk1/LeetHub/tree/master/1940-maximum-xor-for-each-query) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lokeshsk1/LeetHub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/lokeshsk1/LeetHub/tree/master/0973-k-closest-points-to-origin) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lokeshsk1/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lokeshsk1/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1626-best-team-with-no-conflicts](https://github.com/lokeshsk1/LeetHub/tree/master/1626-best-team-with-no-conflicts) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/lokeshsk1/LeetHub/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lokeshsk1/LeetHub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/lokeshsk1/LeetHub/tree/master/2333-minimum-sum-of-squared-difference) |
