@@ -3,16 +3,10 @@ class Solution:
         
         n = len(scores)
 
-        # scores = [score for _, score in sorted(zip(ages, scores), reverse = 1) ]
-        # ages = sorted(ages, reverse = 1)
-
-        scores = [score for _, score in sorted(zip(ages, scores), reverse = 0) ]
-        ages = sorted(ages, reverse = 0)
+        scores = [score for _, score in sorted(zip(ages, scores)) ]
 
         dp = scores[:]
         res = 0
-
-        # print(scores)
 
         for i in range(n):
             for j in range(i):
@@ -20,7 +14,5 @@ class Solution:
                     dp[i] = max(dp[i], dp[j] + scores[i])
             
             res = max(res, dp[i])
-
-            # print(dp)
 
         return res
