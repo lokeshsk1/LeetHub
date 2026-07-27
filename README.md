@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/lokeshsk1/LeetHub/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/lokeshsk1/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/lokeshsk1/LeetHub/tree/master/0918-maximum-sum-circular-subarray) |
+| [0931-minimum-falling-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0931-minimum-falling-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0967-minimum-falling-path-sum) |
 | [1025-divisor-game](https://github.com/lokeshsk1/LeetHub/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/lokeshsk1/LeetHub/tree/master/1137-n-th-tribonacci-number) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/lokeshsk1/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/lokeshsk1/LeetHub/tree/master/0907-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/lokeshsk1/LeetHub/tree/master/0918-maximum-sum-circular-subarray) |
+| [0931-minimum-falling-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0931-minimum-falling-path-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/lokeshsk1/LeetHub/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0967-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/lokeshsk1/LeetHub/tree/master/0973-k-closest-points-to-origin) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/lokeshsk1/LeetHub/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/lokeshsk1/LeetHub/tree/master/0463-island-perimeter) |
+| [0931-minimum-falling-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0931-minimum-falling-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0967-minimum-falling-path-sum) |
 | [1041-available-captures-for-rook](https://github.com/lokeshsk1/LeetHub/tree/master/1041-available-captures-for-rook) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
