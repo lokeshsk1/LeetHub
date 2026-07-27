@@ -17,8 +17,7 @@ class Solution:
 
                 mn = min(dp[i-1][j] , dp[i-1][j-1] , dp[i][j-1])
                 
-                if mn != 0:
-                    dp[i][j] = mn + 1
+                dp[i][j] = mn + 1
             
                 res = max(res, dp[i][j])
 
