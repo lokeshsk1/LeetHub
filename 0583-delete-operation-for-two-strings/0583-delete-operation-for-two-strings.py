@@ -13,7 +13,5 @@ class Solution:
                 else:
                     dp[i][j] = max(dp[i-1][j], dp[i][j-1])
 
-        print(dp)
-
         return n1 + n2 - (dp[-1][-1]*2)
 
