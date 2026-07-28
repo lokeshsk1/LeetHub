@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/lokeshsk1/LeetHub/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/lokeshsk1/LeetHub/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3451-string-compression-iii](https://github.com/lokeshsk1/LeetHub/tree/master/3451-string-compression-iii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/lokeshsk1/LeetHub/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3606-coupon-code-validator](https://github.com/lokeshsk1/LeetHub/tree/master/3606-coupon-code-validator) |
 | [3636-check-balanced-string](https://github.com/lokeshsk1/LeetHub/tree/master/3636-check-balanced-string) |
 | [3803-count-residue-prefixes](https://github.com/lokeshsk1/LeetHub/tree/master/3803-count-residue-prefixes) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/lokeshsk1/LeetHub/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/lokeshsk1/LeetHub/tree/master/2706-buy-two-chocolates) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lokeshsk1/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/lokeshsk1/LeetHub/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3606-coupon-code-validator](https://github.com/lokeshsk1/LeetHub/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lokeshsk1/LeetHub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/lokeshsk1/LeetHub/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lokeshsk1/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/lokeshsk1/LeetHub/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
 | ------- |
