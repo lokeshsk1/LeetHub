@@ -11,12 +11,16 @@ class Solution:
         dp[0][0] = 1
 
         for i in range(1, r+1):
-            if s1[i-1] == s3[i-1] and dp[i-1][0] == 1:
+            if s1[i-1] == s3[i-1]:
                 dp[i][0] = 1
+            else:
+                break
 
         for j in range(1, c+1):
-            if s2[j-1] == s3[j-1] and dp[0][j-1] == 1:
+            if s2[j-1] == s3[j-1]:
                 dp[0][j] = 1
+            else:
+                break
 
         # print(dp)
 
