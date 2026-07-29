@@ -18,7 +18,7 @@ class Solution:
             if s2[j-1] == s3[j-1] and dp[0][j-1] == 1:
                 dp[0][j] = 1
 
-        print(dp)
+        # print(dp)
 
         for i in range(1, r+1):
             for j in range(1, c+1):
@@ -27,8 +27,8 @@ class Solution:
                 if case1 or case2:
                     dp[i][j] = 1
 
-        for row in dp:
-            print(row, end = '\n')
+        # for row in dp:
+        #     print(row, end = '\n')
 
         return dp[-1][-1]
 
