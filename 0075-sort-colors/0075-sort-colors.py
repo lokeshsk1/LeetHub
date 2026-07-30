@@ -4,20 +4,19 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         
-        l = 0
-        r = len(nums)-1
-        i = 0
+        l,m = 0,0
 
-        while i <= r:
-
-            if nums[i] == 0:
-                nums[i], nums[l] = nums[l], nums[i]
+        for i in nums:
+            if i == 0:
                 l += 1
-                i += 1
-            elif nums[i] == 2:
-                nums[i], nums[r] = nums[r], nums[i]
-                r -= 1
-            else:
-                i += 1
+                m += 1
+            elif i == 1:
+                m += 1
+        
+        # print(l,m)
 
-            print(nums)
+        nums[:l] = [0]*l
+        nums[l:m] = [1]*(m-l)
+        nums[m:] = [2]*(len(nums)-m)
+
+        return nums
