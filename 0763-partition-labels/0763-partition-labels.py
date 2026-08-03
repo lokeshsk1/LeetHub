@@ -11,17 +11,16 @@ class Solution:
 
         while start < len(s):
             
-            fin = last[s[start]]
+            end = last[s[start]]
 
             j = start
-            while j < fin:
-                fin = max(fin, last[s[j]])
+            while j < end:
+                end = max(end, last[s[j]])
                 j += 1
                 
-            print(start, fin, fin-start+1)
-            res.append(fin-start+1)
+            res.append(end-start+1)
 
-            start = fin + 1
+            start = end + 1
 
         return res
 
