@@ -7,20 +7,16 @@ class Solution:
             last[s[i]] = i
         
         start = 0
+        end = 0
         res = []
 
-        while start < len(s):
+        for i in range(len(s)):
             
-            end = last[s[start]]
+            end = max(end, last[s[i]])
 
-            j = start
-            while j < end:
-                end = max(end, last[s[j]])
-                j += 1
-                
-            res.append(end-start+1)
-
-            start = end + 1
+            if i == end:
+                res.append(end-start+1)
+                start = i + 1
 
         return res
 
