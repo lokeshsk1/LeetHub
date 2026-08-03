@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/lokeshsk1/LeetHub/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/lokeshsk1/LeetHub/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/lokeshsk1/LeetHub/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0763-partition-labels](https://github.com/lokeshsk1/LeetHub/tree/master/0763-partition-labels) |
 | [0812-rotate-string](https://github.com/lokeshsk1/LeetHub/tree/master/0812-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/lokeshsk1/LeetHub/tree/master/1143-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/lokeshsk1/LeetHub/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/lokeshsk1/LeetHub/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/lokeshsk1/LeetHub/tree/master/0705-design-hashset) |
 | [0740-delete-and-earn](https://github.com/lokeshsk1/LeetHub/tree/master/0740-delete-and-earn) |
+| [0763-partition-labels](https://github.com/lokeshsk1/LeetHub/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/lokeshsk1/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/lokeshsk1/LeetHub/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/lokeshsk1/LeetHub/tree/master/1207-unique-number-of-occurrences) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/lokeshsk1/LeetHub/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/lokeshsk1/LeetHub/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/lokeshsk1/LeetHub/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/lokeshsk1/LeetHub/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/lokeshsk1/LeetHub/tree/master/0876-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lokeshsk1/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lokeshsk1/LeetHub/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/lokeshsk1/LeetHub/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/lokeshsk1/LeetHub/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/lokeshsk1/LeetHub/tree/master/0179-largest-number) |
+| [0763-partition-labels](https://github.com/lokeshsk1/LeetHub/tree/master/0763-partition-labels) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lokeshsk1/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1975-maximum-matrix-sum](https://github.com/lokeshsk1/LeetHub/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/lokeshsk1/LeetHub/tree/master/2141-maximum-running-time-of-n-computers) |
