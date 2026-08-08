@@ -1,0 +1,22 @@
+class Solution:
+    def calPoints(self, ops: List[str]) -> int:
+        
+        st = []
+
+        for i in ops:
+            try:
+                st.append(int(i))
+            except:
+                pass
+            
+            if i == '+':
+                st.append(st[-1] + st[-2])
+            elif i == 'D':
+                st.append(st[-1] * 2)
+            elif i == 'C':
+                st.pop()
+        
+            print(st)
+
+        return sum(st)
+        
