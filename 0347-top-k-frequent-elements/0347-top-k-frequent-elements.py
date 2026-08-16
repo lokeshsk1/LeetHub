@@ -1,17 +1,19 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         
-
+        size = k
         c = Counter(nums)
 
         pq = []
 
-        for i in c:
+        for k,v in c.items():
 
-            heapq.heappush(pq, (c[i], i))
+            heapq.heappush(pq, (v, k))
 
-            if len(pq) > k:
+            if len(pq) == size+1:
                 heapq.heappop(pq)
         
-        print(pq)
-        return [e[1] for e in pq]
+        res = [j for i,j in pq]
+        return res
+
+
