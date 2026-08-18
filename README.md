@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/lokeshsk1/LeetHub/tree/master/3291-find-if-array-can-be-sorted) |
 | [3453-separate-squares-i](https://github.com/lokeshsk1/LeetHub/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/lokeshsk1/LeetHub/tree/master/3454-separate-squares-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/lokeshsk1/LeetHub/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/lokeshsk1/LeetHub/tree/master/3477-fruits-into-baskets-ii) |
 | [3606-coupon-code-validator](https://github.com/lokeshsk1/LeetHub/tree/master/3606-coupon-code-validator) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/lokeshsk1/LeetHub/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/lokeshsk1/LeetHub/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/lokeshsk1/LeetHub/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/lokeshsk1/LeetHub/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/lokeshsk1/LeetHub/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3606-coupon-code-validator](https://github.com/lokeshsk1/LeetHub/tree/master/3606-coupon-code-validator) |
 | [3803-count-residue-prefixes](https://github.com/lokeshsk1/LeetHub/tree/master/3803-count-residue-prefixes) |
 | [4008-restore-finishing-order](https://github.com/lokeshsk1/LeetHub/tree/master/4008-restore-finishing-order) |
