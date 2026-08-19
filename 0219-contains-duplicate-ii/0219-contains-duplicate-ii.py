@@ -10,7 +10,7 @@ class Solution:
 
             st.add(nums[i])
             
-            if len(st) > k:
+            if i+1 > k:
                 st.remove(nums[i-k])
 
         return False
