@@ -6,6 +6,7 @@ class Solution:
         for i in ops:
             try:
                 st.append(int(i))
+                continue
             except:
                 pass
             
