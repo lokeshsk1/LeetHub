@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lokeshsk1/LeetHub/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/lokeshsk1/LeetHub/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/lokeshsk1/LeetHub/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/lokeshsk1/LeetHub/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lokeshsk1/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0219-contains-duplicate-ii) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/lokeshsk1/LeetHub/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/lokeshsk1/LeetHub/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/lokeshsk1/LeetHub/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/lokeshsk1/LeetHub/tree/master/0304-range-sum-query-2d-immutable) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lokeshsk1/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/lokeshsk1/LeetHub/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/lokeshsk1/LeetHub/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/lokeshsk1/LeetHub/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/lokeshsk1/LeetHub/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/lokeshsk1/LeetHub/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/lokeshsk1/LeetHub/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/lokeshsk1/LeetHub/tree/master/0279-perfect-squares) |
@@ -766,4 +770,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/lokeshsk1/LeetHub/tree/master/0881-boats-to-save-people) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/lokeshsk1/LeetHub/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
