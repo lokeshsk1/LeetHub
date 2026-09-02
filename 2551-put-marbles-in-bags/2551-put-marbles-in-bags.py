@@ -8,23 +8,16 @@ class Solution:
 
             pairSum = weights[i] + weights[i+1]
 
-            print(pairSum)
             heapq.heappush(min_pq, pairSum)
             heapq.heappush(max_pq, -pairSum)
 
         min_score = weights[0] + weights[-1]
-        max_score = weights[0] + weights[-1]
+        max_score = min_score
         
-        print(min_pq)
-
         for _ in range(k-1):
-            mini = heapq.heappop(min_pq)
-            maxi = heapq.heappop(max_pq)
-            min_score += mini
-            max_score -= maxi
+            min_score += heapq.heappop(min_pq)
+            max_score -= heapq.heappop(max_pq)
         
-        print(min_score, max_score)
-
         return max_score - min_score
         
 
