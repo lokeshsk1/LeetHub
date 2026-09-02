@@ -11,8 +11,7 @@ class Solution:
             heapq.heappush(min_pq, pairSum)
             heapq.heappush(max_pq, -pairSum)
 
-        min_score = weights[0] + weights[-1]
-        max_score = min_score
+        min_score = max_score = 0
         
         for _ in range(k-1):
             min_score += heapq.heappop(min_pq)
