@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lokeshsk1/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/lokeshsk1/LeetHub/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/lokeshsk1/LeetHub/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/lokeshsk1/LeetHub/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/lokeshsk1/LeetHub/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0063-unique-paths-ii) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/lokeshsk1/LeetHub/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0074-search-a-2d-matrix) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/lokeshsk1/LeetHub/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/lokeshsk1/LeetHub/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/lokeshsk1/LeetHub/tree/master/0682-baseball-game) |
