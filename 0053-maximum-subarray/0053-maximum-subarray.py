@@ -5,8 +5,11 @@ class Solution:
         maxSum = nums[0]
 
         for i in range(1, len(nums)):
-
-            currSum = max(currSum + nums[i], nums[i])
+            if currSum < 0:
+                currSum = nums[i]
+            else:
+                currSum += nums[i]
+            # currSum = max(currSum + nums[i], nums[i])
             maxSum = max(maxSum, currSum)
         
         return maxSum
