@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/lokeshsk1/LeetHub/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/lokeshsk1/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/lokeshsk1/LeetHub/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lokeshsk1/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/lokeshsk1/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/lokeshsk1/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/lokeshsk1/LeetHub/tree/master/0130-surrounded-regions) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lokeshsk1/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/lokeshsk1/LeetHub/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/lokeshsk1/LeetHub/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/lokeshsk1/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/lokeshsk1/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/lokeshsk1/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/lokeshsk1/LeetHub/tree/master/0146-lru-cache) |
