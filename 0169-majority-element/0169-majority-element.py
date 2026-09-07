@@ -9,10 +9,9 @@ class Solution:
             if nums[i] == curr:
                 count += 1
             else:
-                count -= 1
-                if count == 0:
+                if count == 1:
                     curr = nums[i]
-                    count = 1
-                    
+                else:
+                    count -= 1                    
         
         return curr
