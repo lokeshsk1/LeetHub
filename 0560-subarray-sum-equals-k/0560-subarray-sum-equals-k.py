@@ -12,7 +12,7 @@ class Solution:
             if prefix - k in dt:
                 res += dt[prefix - k]
             
-            dt[prefix] = dt[prefix] + 1
+            dt[prefix] += 1
             
         
         return res
