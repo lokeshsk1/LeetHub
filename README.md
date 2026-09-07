@@ -792,4 +792,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/lokeshsk1/LeetHub/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/lokeshsk1/LeetHub/tree/master/0200-number-of-islands) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/lokeshsk1/LeetHub/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
