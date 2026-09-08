@@ -9,7 +9,5 @@ class Solution:
             if len(pq) > k:
                 heapq.heappop(pq)
         
-        print(pq)
-
-        res = heapq.heappop(pq)
-        return res
+        # res = heapq.heappop(pq)
+        return pq[0]
