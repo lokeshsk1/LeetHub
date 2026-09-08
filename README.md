@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/lokeshsk1/LeetHub/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/lokeshsk1/LeetHub/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/lokeshsk1/LeetHub/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/lokeshsk1/LeetHub/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/lokeshsk1/LeetHub/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/lokeshsk1/LeetHub/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/lokeshsk1/LeetHub/tree/master/0740-delete-and-earn) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/lokeshsk1/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/lokeshsk1/LeetHub/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/lokeshsk1/LeetHub/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/lokeshsk1/LeetHub/tree/master/0706-design-hashmap) |
 | [0740-delete-and-earn](https://github.com/lokeshsk1/LeetHub/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/lokeshsk1/LeetHub/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/lokeshsk1/LeetHub/tree/master/0846-hand-of-straights) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/lokeshsk1/LeetHub/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/lokeshsk1/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/lokeshsk1/LeetHub/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/lokeshsk1/LeetHub/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/lokeshsk1/LeetHub/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -659,11 +662,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/lokeshsk1/LeetHub/tree/master/0304-range-sum-query-2d-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lokeshsk1/LeetHub/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/lokeshsk1/LeetHub/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/lokeshsk1/LeetHub/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/lokeshsk1/LeetHub/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/lokeshsk1/LeetHub/tree/master/0706-design-hashmap) |
 ## Doubly-Linked List
 |  |
 | ------- |
