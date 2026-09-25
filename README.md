@@ -821,4 +821,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lokeshsk1/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/lokeshsk1/LeetHub/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
