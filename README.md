@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/lokeshsk1/LeetHub/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/lokeshsk1/LeetHub/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lokeshsk1/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/lokeshsk1/LeetHub/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/lokeshsk1/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/lokeshsk1/LeetHub/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0213-house-robber-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/lokeshsk1/LeetHub/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/lokeshsk1/LeetHub/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/lokeshsk1/LeetHub/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/lokeshsk1/LeetHub/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/lokeshsk1/LeetHub/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/lokeshsk1/LeetHub/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/lokeshsk1/LeetHub/tree/master/0205-isomorphic-strings) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/lokeshsk1/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/lokeshsk1/LeetHub/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/lokeshsk1/LeetHub/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/lokeshsk1/LeetHub/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lokeshsk1/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/lokeshsk1/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lokeshsk1/LeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lokeshsk1/LeetHub/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/lokeshsk1/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/lokeshsk1/LeetHub/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/lokeshsk1/LeetHub/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/lokeshsk1/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/lokeshsk1/LeetHub/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/lokeshsk1/LeetHub/tree/master/0169-majority-element) |
@@ -653,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lokeshsk1/LeetHub/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/lokeshsk1/LeetHub/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/lokeshsk1/LeetHub/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/lokeshsk1/LeetHub/tree/master/1137-n-th-tribonacci-number) |
 ## Counting Sort
@@ -825,4 +830,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lokeshsk1/LeetHub/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/lokeshsk1/LeetHub/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/lokeshsk1/LeetHub/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
