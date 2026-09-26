@@ -1,16 +1,32 @@
 class Solution:
     def minimumDeleteSum(self, s1: str, s2: str) -> int:
-        n, m = len(s1), len(s2)
+        
+        n1 = len(s1); n2 = len(s2)
+        dp = [[0]*(n2+1) for _ in range(n1+1)]
 
-        # dp[i][j] = maximum ASCII sum of common subsequence
-        dp = [[0] * (m + 1) for _ in range(n + 1)]
+        def ascii(s):
+            res = 0
+            for i in s:
+                res += ord(i)
+            return res
 
-        for i in range(n):
-            for j in range(m):
-                if s1[i] == s2[j]:
-                    dp[i + 1][j + 1] = dp[i][j] + ord(s1[i])
+        for i in range(n1+1):
+            for j in range(n2+1):
+
+                if i == 0 or j == 0:
+                    if i==0 and j == 0:
+                        dp[i][j] = 0
+                    if i == 0:
+                        dp[i][j] = ascii(s2[:j])
+                    if j == 0:
+                        dp[i][j] = ascii(s1[:i])
                 else:
-                    dp[i + 1][j + 1] = max(dp[i][j + 1], dp[i + 1][j])
+                    if s1[i-1] == s2[j-1]:
+                        dp[i][j] = dp[i-1][j-1]
+                    else:
+                        dp[i][j] = min(dp[i][j-1] + ascii(s2[j-1]), dp[i-1][j] + ascii(s1[i-1]))
+        
+        # for i in dp:
+        #     print(i)
 
-        total_ascii = sum(ord(c) for c in s1) + sum(ord(c) for c in s2)
-        return total_ascii - 2 * dp[n][m]
+        return dp[-1][-1]
