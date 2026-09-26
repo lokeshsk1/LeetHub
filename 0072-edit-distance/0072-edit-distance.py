@@ -10,7 +10,7 @@ class Solution:
         # #replace
         # dancer
         # dancex
-        # ignore last char in both + 1
+        # ignore last char in both
 
         # #create
         # dance
@@ -26,8 +26,6 @@ class Solution:
         for j in range(n1+1):
             dp[j][0] = j
 
-        print(dp)
-
         for i in range(1, n1+1):
             for j in range(1, n2+1):
                 if s1[i-1] != s2[j-1]:
@@ -35,8 +33,6 @@ class Solution:
                 else:
                     dp[i][j] = dp[i-1][j-1]
         
-        print(dp)
-
         return dp[-1][-1]
 
         # abc
