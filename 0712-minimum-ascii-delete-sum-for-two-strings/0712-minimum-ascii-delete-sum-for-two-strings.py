@@ -19,8 +19,5 @@ class Solution:
                         dp[i][j] = dp[i-1][j-1]
                     else:
                         dp[i][j] = min(dp[i][j-1] + ord(s2[j-1]), dp[i-1][j] + ord(s1[i-1]))
-        
-        for i in dp:
-            print(i)
 
         return dp[-1][-1]
