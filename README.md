@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/lokeshsk1/LeetHub/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/lokeshsk1/LeetHub/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/lokeshsk1/LeetHub/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/lokeshsk1/LeetHub/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/lokeshsk1/LeetHub/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/lokeshsk1/LeetHub/tree/master/0343-integer-break) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/lokeshsk1/LeetHub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lokeshsk1/LeetHub/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/lokeshsk1/LeetHub/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/lokeshsk1/LeetHub/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/lokeshsk1/LeetHub/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/lokeshsk1/LeetHub/tree/master/0347-top-k-frequent-elements) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lokeshsk1/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/lokeshsk1/LeetHub/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/lokeshsk1/LeetHub/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lokeshsk1/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/lokeshsk1/LeetHub/tree/master/0792-binary-search) |
@@ -854,4 +857,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lokeshsk1/LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/lokeshsk1/LeetHub/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
