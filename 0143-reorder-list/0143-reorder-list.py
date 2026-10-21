@@ -4,50 +4,57 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def reorderList(self, head: Optional[ListNode]) -> None:
+    def reorderList(self, head: ListNode | None) -> None:
         """
         Do not return anything, modify head in-place instead.
         """
-        start = head
-        middle = self.middle(head)
-        rev = self.reverse(middle)
-        res = ListNode(-1)
-
-        while rev:
-            
-            if start != middle:
-                res.next = start
-                start = start.next
-                res = res.next
-
-            res.next = rev
-            rev = rev.next
-            res = res.next
         
+        head_orig = head
+        slow = head
+        fast = head
 
-    def middle(self, head):
-
-        slow = fast = head
-
-        while slow and fast and fast.next:
+        while fast and fast.next and fast.next.next:
             slow = slow.next
             fast = fast.next.next
         
-        return slow
-    
-    def reverse(self, head):
+        # print(slow)
+        curr = slow.next
+        slow.next = None
 
         prev = None
+        while curr:
+            nxt = curr.next
 
-        while head:
+            curr.next = prev
+            prev = curr
+            curr = nxt
 
-            nxt = head.next
-            head.next = prev
+        left = head_orig
+        right = prev
 
-            prev = head
-            head = nxt
+        # print(left)
+        # print(right)
+
         
-        return prev
+        res_dummy = ListNode(0)
+        res = res_dummy
 
-        
+        while left and right:
+            res.next = left
+            res = res.next
+            left = left.next
+
+            res.next = right
+            res = res.next
+            right = right.next
+
+            # print(res_dummy, left, right)
+            # print("***")
+
+        if left:
+            res.next = left
+            res = res.next
+            res.next = None
+
+        return res_dummy.next
         
