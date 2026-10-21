@@ -20,11 +20,6 @@ class Solution:
         temp = curr
         curr = curr.next
 
-        # if curr is None:
-        #     return head
-
-        print(curr.val)
-
         for _ in range(right-left+1):
 
             nxt = curr.next
@@ -33,8 +28,6 @@ class Solution:
             prev = curr
             curr = nxt
 
-        print(prev)
-        
         temp.next = prev
         return dummy.next
         
