@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/lokeshsk1/LeetHub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lokeshsk1/LeetHub/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/lokeshsk1/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/lokeshsk1/LeetHub/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/lokeshsk1/LeetHub/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/lokeshsk1/LeetHub/tree/master/0322-coin-change) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/lokeshsk1/LeetHub/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/lokeshsk1/LeetHub/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/lokeshsk1/LeetHub/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/lokeshsk1/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/lokeshsk1/LeetHub/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/lokeshsk1/LeetHub/tree/master/0342-power-of-four) |
 | [0868-binary-gap](https://github.com/lokeshsk1/LeetHub/tree/master/0868-binary-gap) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lokeshsk1/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/lokeshsk1/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/lokeshsk1/LeetHub/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/lokeshsk1/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/lokeshsk1/LeetHub/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/lokeshsk1/LeetHub/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0680-valid-palindrome-ii) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lokeshsk1/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/lokeshsk1/LeetHub/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/lokeshsk1/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/lokeshsk1/LeetHub/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lokeshsk1/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
@@ -869,4 +873,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/lokeshsk1/LeetHub/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/lokeshsk1/LeetHub/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/lokeshsk1/LeetHub/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
