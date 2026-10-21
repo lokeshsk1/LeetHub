@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/lokeshsk1/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/lokeshsk1/LeetHub/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/lokeshsk1/LeetHub/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/lokeshsk1/LeetHub/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/lokeshsk1/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/lokeshsk1/LeetHub/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/lokeshsk1/LeetHub/tree/master/0706-design-hashmap) |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/lokeshsk1/LeetHub/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/lokeshsk1/LeetHub/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/lokeshsk1/LeetHub/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/lokeshsk1/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/lokeshsk1/LeetHub/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/lokeshsk1/LeetHub/tree/master/0390-elimination-game) |
