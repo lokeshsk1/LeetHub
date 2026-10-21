@@ -9,22 +9,14 @@ class Solution:
         if left == right:
             return head
 
+        dummy = ListNode(0, head)
+
         prev = head
         for _ in range(right):
             prev = prev.next
 
-        # edge case: sublist starts at the head
-        if left == 1:
-            curr = head
-            for _ in range(right):
-                nxt = curr.next
-                curr.next = prev
-                prev = curr
-                curr = nxt
-            return prev          # new head
-
-        curr = head
-        for _ in range(left - 2):
+        curr = dummy
+        for _ in range(left - 1):
             curr = curr.next
 
         temp = curr
@@ -37,4 +29,4 @@ class Solution:
             curr = nxt
 
         temp.next = prev
-        return head
+        return dummy.next
