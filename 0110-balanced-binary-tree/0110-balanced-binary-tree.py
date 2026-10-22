@@ -19,6 +19,8 @@ class Solution:
         lh = self.height(root.left)
         rh = self.height(root.right)
 
+        # self.isBal = (abs(lh-rh) <= 1)
+
         if abs(lh-rh) > 1:
             self.isBal = False
         
