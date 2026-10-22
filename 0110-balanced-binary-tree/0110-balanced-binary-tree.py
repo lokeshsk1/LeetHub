@@ -11,8 +11,6 @@ class Solution:
             self.height(root)
             return self.isBal
 
-        
-
     def height(self, root):
 
         if not root:
@@ -21,6 +19,7 @@ class Solution:
         lh = self.height(root.left)
         rh = self.height(root.right)
 
-        self.isBal = abs(lh-rh) <= 1
+        if abs(lh-rh) > 1:
+            self.isBal = False
         
         return 1 + max(lh, rh)
