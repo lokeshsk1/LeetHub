@@ -5,17 +5,17 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    
+
     prev = None
 
-    def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        
+    def isValidBST(self, root: TreeNode | None) -> bool:
+
         if not root:
             return True
 
         if not self.isValidBST(root.left):
             return False
-
+        
         if self.prev and self.prev.val >= root.val:
             return False
         
@@ -23,9 +23,6 @@ class Solution:
 
         if not self.isValidBST(root.right):
             return False
-
-
+        
         return True
-
-
         
