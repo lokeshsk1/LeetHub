@@ -1,22 +1,14 @@
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
-        
-        stack = []
-        res = 0
-        n = len(heights)
-        
-        for i in range(n):
-            while stack and heights[stack[-1]] > heights[i]:
-                top = stack[-1]
-                stack.pop()
-                curr = heights[top] * (i if stack==[] else (i-stack[-1]-1))
-                res = max(res, curr)
-            stack.append(i)
-            
-        while stack:
-            top = stack[-1]
-            stack.pop()
-            curr = heights[top] * (n if stack==[] else (n-stack[-1]-1))
-            res = max(res, curr)
-            
-        return res
+        stack = []   # (start_index, height), heights strictly increasing
+        best = 0
+
+        for i, h in enumerate(heights + [0]):   # sentinel 0 flushes the stack at the end
+            start = i
+            while stack and stack[-1][1] >= h:
+                idx, height = stack.pop()
+                best = max(best, height * (i - idx))
+                start = idx                      # new bar can extend back to where the popped bar began
+            stack.append((start, h))
+
+        return best
