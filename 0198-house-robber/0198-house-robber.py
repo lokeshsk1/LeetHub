@@ -10,4 +10,4 @@ class Solution:
 
             nums[i] = max(nums[i] + nums[i-2], nums[i-1])
 
-        return max(nums[-1], nums[-2])
+        return nums[-1]
