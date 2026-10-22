@@ -17,11 +17,14 @@ class Solution:
         if not root:
             return
 
+        
+        
+        self.helper(root.left, max(maxi, root.val))
+
         if root.val >= maxi:
             print(root.val)
             self.res += 1
-        
-        self.helper(root.left, max(maxi, root.val))
+            
         self.helper(root.right, max(maxi, root.val))
 
 
