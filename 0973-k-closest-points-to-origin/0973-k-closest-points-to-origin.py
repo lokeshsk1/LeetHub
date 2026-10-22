@@ -10,8 +10,5 @@ class Solution:
             if len(pq) > k:
                 heapq.heappop(pq)
                 
-
-        res = []
-        for p in pq:
-            res.append(p[1])
-        return res
+        return [p[1] for p in pq]
+        
