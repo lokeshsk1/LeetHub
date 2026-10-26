@@ -1,12 +1,18 @@
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
         
-        maxTil = 0
+        
+        dp = [0]*len(nums)
 
         for i in range(len(nums)):
-            
-            if i > maxTil:
-                return False
-            maxTil = max(maxTil, i + nums[i])
 
+            if i > dp[i-1]:
+                return False
+            
+            dp[i] = max(dp[i-1], i + nums[i])
+
+            if dp[i] > len(nums)-1:
+                return True
+
+        
         return True
