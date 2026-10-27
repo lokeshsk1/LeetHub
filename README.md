@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/lokeshsk1/LeetHub/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/lokeshsk1/LeetHub/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/lokeshsk1/LeetHub/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/lokeshsk1/LeetHub/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/lokeshsk1/LeetHub/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/lokeshsk1/LeetHub/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/lokeshsk1/LeetHub/tree/master/0179-largest-number) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/lokeshsk1/LeetHub/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/lokeshsk1/LeetHub/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/lokeshsk1/LeetHub/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/lokeshsk1/LeetHub/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/lokeshsk1/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/lokeshsk1/LeetHub/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/lokeshsk1/LeetHub/tree/master/0139-word-break) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/lokeshsk1/LeetHub/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/lokeshsk1/LeetHub/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/lokeshsk1/LeetHub/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/lokeshsk1/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/lokeshsk1/LeetHub/tree/master/0200-number-of-islands) |
@@ -926,4 +929,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/lokeshsk1/LeetHub/tree/master/0973-k-closest-points-to-origin) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/lokeshsk1/LeetHub/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
