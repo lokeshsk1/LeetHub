@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/lokeshsk1/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/lokeshsk1/LeetHub/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/lokeshsk1/LeetHub/tree/master/0403-frog-jump) |
+| [0413-arithmetic-slices](https://github.com/lokeshsk1/LeetHub/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/lokeshsk1/LeetHub/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/lokeshsk1/LeetHub/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/lokeshsk1/LeetHub/tree/master/0516-longest-palindromic-subsequence) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/lokeshsk1/LeetHub/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/lokeshsk1/LeetHub/tree/master/0403-frog-jump) |
+| [0413-arithmetic-slices](https://github.com/lokeshsk1/LeetHub/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/lokeshsk1/LeetHub/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lokeshsk1/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/lokeshsk1/LeetHub/tree/master/0463-island-perimeter) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lokeshsk1/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/lokeshsk1/LeetHub/tree/master/0413-arithmetic-slices) |
 | [0567-permutation-in-string](https://github.com/lokeshsk1/LeetHub/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/lokeshsk1/LeetHub/tree/master/0904-fruit-into-baskets) |
 ## Memoization
