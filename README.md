@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lokeshsk1/LeetHub/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/lokeshsk1/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lokeshsk1/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0460-lfu-cache](https://github.com/lokeshsk1/LeetHub/tree/master/0460-lfu-cache) |
 | [0523-continuous-subarray-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/lokeshsk1/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/lokeshsk1/LeetHub/tree/master/0567-permutation-in-string) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/lokeshsk1/LeetHub/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/lokeshsk1/LeetHub/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/lokeshsk1/LeetHub/tree/master/0234-palindrome-linked-list) |
+| [0460-lfu-cache](https://github.com/lokeshsk1/LeetHub/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/lokeshsk1/LeetHub/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/lokeshsk1/LeetHub/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/lokeshsk1/LeetHub/tree/master/0876-middle-of-the-linked-list) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/lokeshsk1/LeetHub/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/lokeshsk1/LeetHub/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/lokeshsk1/LeetHub/tree/master/0304-range-sum-query-2d-immutable) |
+| [0460-lfu-cache](https://github.com/lokeshsk1/LeetHub/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lokeshsk1/LeetHub/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/lokeshsk1/LeetHub/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/lokeshsk1/LeetHub/tree/master/0706-design-hashmap) |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/lokeshsk1/LeetHub/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/lokeshsk1/LeetHub/tree/master/0460-lfu-cache) |
 ## Depth-First Search
 |  |
 | ------- |
