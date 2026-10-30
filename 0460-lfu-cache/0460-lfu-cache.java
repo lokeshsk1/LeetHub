@@ -1,64 +1,72 @@
-import java.util.*;
-
 class LFUCache {
 
-    private final int cap;
+    private HashMap<Integer, Integer> vals = new HashMap<>();
+    private HashMap<Integer, Integer> freq = new HashMap<>();
+    private HashMap<Integer, LinkedHashSet> buckets = new HashMap<>();
+    private final int capacity;
     private int minFreq;
-    private final Map<Integer, Integer> vals = new HashMap<>();
-    private final Map<Integer, Integer> freq = new HashMap<>();
-    private final Map<Integer, LinkedHashSet<Integer>> buckets = new HashMap<>();
 
     public LFUCache(int capacity) {
-        this.cap = capacity;
+        this.capacity = capacity;
     }
 
-    private void touch(int key) {
+    public void touch(int key){
+
         int f = freq.get(key);
-        LinkedHashSet<Integer> set = buckets.get(f);
-        set.remove(key);
-        if (set.isEmpty()) {
+        LinkedHashSet<Integer> bucket = buckets.get(f);
+
+        bucket.remove(key);
+        if(bucket.isEmpty()){
             buckets.remove(f);
-            if (minFreq == f) {
+            if(f == minFreq){
                 minFreq++;
             }
         }
-        freq.put(key, f + 1);
-        buckets.computeIfAbsent(f + 1, k -> new LinkedHashSet<>()).add(key);
-    }
 
+        freq.put(key, f+1);
+        buckets.computeIfAbsent(f+1, k -> new LinkedHashSet<>()).add(key);
+    }
+    
     public int get(int key) {
-        if (!vals.containsKey(key)) {
+        if(!vals.containsKey(key)){
             return -1;
         }
+
         touch(key);
         return vals.get(key);
     }
-
+    
     public void put(int key, int value) {
-        if (cap == 0) {
-            return;
-        }
 
-        if (vals.containsKey(key)) {
-            vals.put(key, value);
+        if(vals.containsKey(key)){
             touch(key);
-            return;
-        }
+            vals.put(key, value);
+        }else{
 
-        if (vals.size() == cap) {
-            LinkedHashSet<Integer> set = buckets.get(minFreq);
-            int evict = set.iterator().next();
-            set.remove(evict);
-            if (set.isEmpty()) {
-                buckets.remove(minFreq);
+            if(vals.size() == capacity){
+                LinkedHashSet<Integer> bucket = buckets.get(minFreq);
+                int evict = bucket.iterator().next();
+                bucket.remove(evict);
+                if(bucket.isEmpty()){
+                    buckets.remove(minFreq);
+                }
+                vals.remove(evict);
+                freq.remove(evict);
             }
-            vals.remove(evict);
-            freq.remove(evict);
-        }
 
-        vals.put(key, value);
-        freq.put(key, 1);
-        buckets.computeIfAbsent(1, k -> new LinkedHashSet<>()).add(key);
-        minFreq = 1;
+            vals.put(key, value);
+            freq.put(key, 1);
+            buckets.computeIfAbsent(1, k -> new LinkedHashSet<>()).add(key);
+            minFreq = 1;
+
+            
+        }   
     }
 }
+
+/**
+ * Your LFUCache object will be instantiated and called as such:
+ * LFUCache obj = new LFUCache(capacity);
+ * int param_1 = obj.get(key);
+ * obj.put(key,value);
+ */
