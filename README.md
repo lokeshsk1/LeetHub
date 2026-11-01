@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/lokeshsk1/LeetHub/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/lokeshsk1/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/lokeshsk1/LeetHub/tree/master/0390-elimination-game) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/lokeshsk1/LeetHub/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/lokeshsk1/LeetHub/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lokeshsk1/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/lokeshsk1/LeetHub/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/lokeshsk1/LeetHub/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lokeshsk1/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/lokeshsk1/LeetHub/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/lokeshsk1/LeetHub/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/lokeshsk1/LeetHub/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0523-continuous-subarray-sum) |
