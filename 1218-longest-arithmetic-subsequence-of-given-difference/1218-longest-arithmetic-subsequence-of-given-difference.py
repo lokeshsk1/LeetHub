@@ -4,15 +4,15 @@ class Solution:
         n = len(arr)
         res = 0
 
-        dp = dict()
+        dp = defaultdict(int)
 
         for i in range(n):
             if arr[i] - difference in dp:
                 dp[arr[i]] = 1 + dp[arr[i] - difference]
-            else:
-                dp[arr[i]] = 1
+            # else:
+            #     dp[arr[i]] = 1
 
             res = max(res, dp[arr[i]])
         
 
-        return res
+        return res+1
