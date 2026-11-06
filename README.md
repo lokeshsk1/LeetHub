@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/lokeshsk1/LeetHub/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/lokeshsk1/LeetHub/tree/master/1143-longest-common-subsequence) |
 | [1191-k-concatenation-maximum-sum](https://github.com/lokeshsk1/LeetHub/tree/master/1191-k-concatenation-maximum-sum) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/lokeshsk1/LeetHub/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/lokeshsk1/LeetHub/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/lokeshsk1/LeetHub/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1626-best-team-with-no-conflicts](https://github.com/lokeshsk1/LeetHub/tree/master/1626-best-team-with-no-conflicts) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/lokeshsk1/LeetHub/tree/master/1041-available-captures-for-rook) |
 | [1191-k-concatenation-maximum-sum](https://github.com/lokeshsk1/LeetHub/tree/master/1191-k-concatenation-maximum-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/lokeshsk1/LeetHub/tree/master/1207-unique-number-of-occurrences) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/lokeshsk1/LeetHub/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/lokeshsk1/LeetHub/tree/master/1266-minimum-time-visiting-all-points) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/lokeshsk1/LeetHub/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/lokeshsk1/LeetHub/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/lokeshsk1/LeetHub/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/lokeshsk1/LeetHub/tree/master/1207-unique-number-of-occurrences) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/lokeshsk1/LeetHub/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lokeshsk1/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lokeshsk1/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/lokeshsk1/LeetHub/tree/master/2196-create-binary-tree-from-descriptions) |
