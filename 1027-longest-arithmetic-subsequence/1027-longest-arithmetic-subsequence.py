@@ -14,8 +14,5 @@ class Solution:
                 dp[i][diff] = max(dp[i][diff] , 1 + dp[j][diff])
                 res = max(res, dp[i][diff])
                 
-            # print(dp[0])
 
-        # print(dp)
-
-        return res+1 if res < n else n
+        return res+1
