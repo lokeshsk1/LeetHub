@@ -23,12 +23,11 @@ class Solution:
                 heappush(av_pq, (servers[ind], ind))
                 
             server, ind = heappop(av_pq)
+            res.append(ind)
+            heappush(nav_pq, (time + tasks[i], ind))
 
             # print(time, server, ind)
-            res.append(ind)
             
-            heappush(nav_pq, (time + tasks[i], ind))
-        
-
+            
         return res
 
