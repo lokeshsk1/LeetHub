@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/lokeshsk1/LeetHub/tree/master/1143-longest-common-subsequence) |
 | [1191-k-concatenation-maximum-sum](https://github.com/lokeshsk1/LeetHub/tree/master/1191-k-concatenation-maximum-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/lokeshsk1/LeetHub/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/lokeshsk1/LeetHub/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/lokeshsk1/LeetHub/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/lokeshsk1/LeetHub/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1626-best-team-with-no-conflicts](https://github.com/lokeshsk1/LeetHub/tree/master/1626-best-team-with-no-conflicts) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/lokeshsk1/LeetHub/tree/master/0953-verifying-an-alien-dictionary) |
 | [1143-longest-common-subsequence](https://github.com/lokeshsk1/LeetHub/tree/master/1143-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/lokeshsk1/LeetHub/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/lokeshsk1/LeetHub/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lokeshsk1/LeetHub/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lokeshsk1/LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lokeshsk1/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
