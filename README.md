@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/lokeshsk1/LeetHub/tree/master/1580-shuffle-the-array) |
 | [1626-best-team-with-no-conflicts](https://github.com/lokeshsk1/LeetHub/tree/master/1626-best-team-with-no-conflicts) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lokeshsk1/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1882-process-tasks-using-servers](https://github.com/lokeshsk1/LeetHub/tree/master/1882-process-tasks-using-servers) |
 | [1940-maximum-xor-for-each-query](https://github.com/lokeshsk1/LeetHub/tree/master/1940-maximum-xor-for-each-query) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/lokeshsk1/LeetHub/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/lokeshsk1/LeetHub/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/lokeshsk1/LeetHub/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/lokeshsk1/LeetHub/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lokeshsk1/LeetHub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/lokeshsk1/LeetHub/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/lokeshsk1/LeetHub/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2551-put-marbles-in-bags](https://github.com/lokeshsk1/LeetHub/tree/master/2551-put-marbles-in-bags) |
 ## Linked List
