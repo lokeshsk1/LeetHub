@@ -975,4 +975,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/lokeshsk1/LeetHub/tree/master/0127-word-ladder) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/lokeshsk1/LeetHub/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/lokeshsk1/LeetHub/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
