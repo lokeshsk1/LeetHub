@@ -9,12 +9,12 @@ class Solution:
             cost1 = costs[0] + dp[i-1]
 
             j = i-1
-            while j >= 0 and days[j-1] > days[i-1] - 7 :
+            while j > 0 and days[j-1] > days[i-1] - 7 :
                 j -= 1
             cost7 = costs[1] + dp[j]
 
             j = i-1
-            while j>=0 and days[j-1] > days[i-1] - 30:
+            while j > 0 and days[j-1] > days[i-1] - 30:
                 j -= 1
             cost30 = costs[2] + dp[j]
 
