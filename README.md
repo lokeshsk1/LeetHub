@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/lokeshsk1/LeetHub/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0931-minimum-falling-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0967-minimum-falling-path-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/lokeshsk1/LeetHub/tree/master/0983-minimum-cost-for-tickets) |
 | [1025-divisor-game](https://github.com/lokeshsk1/LeetHub/tree/master/1025-divisor-game) |
 | [1027-longest-arithmetic-subsequence](https://github.com/lokeshsk1/LeetHub/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/lokeshsk1/LeetHub/tree/master/1035-uncrossed-lines) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/lokeshsk1/LeetHub/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0967-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/lokeshsk1/LeetHub/tree/master/0973-k-closest-points-to-origin) |
+| [0983-minimum-cost-for-tickets](https://github.com/lokeshsk1/LeetHub/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/lokeshsk1/LeetHub/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/lokeshsk1/LeetHub/tree/master/1035-uncrossed-lines) |
 | [1041-available-captures-for-rook](https://github.com/lokeshsk1/LeetHub/tree/master/1041-available-captures-for-rook) |
