@@ -1,15 +1,20 @@
 class Solution:
-    def dailyTemperatures(self, t: List[int]) -> List[int]:
+    def dailyTemperatures(self, temperatures: list[int]) -> list[int]:
+        
+        n = len(temperatures)
+        wait = [0] * n
         
         st = []
-        res = [0]*(len(t))
 
-        for i in range(len(t)):
-            
-            while st and t[st[-1]] < t[i]:
-                res[st[-1]] = i - st[-1]
-                st.pop()               
+        for i in range(len(temperatures)):
 
-            st.append(i)
+            while st and temperatures[st[-1]] < temperatures[i]:
+                wait[st[-1]] = i - st[-1]
+                st.pop()
+            else:
+                st.append(i)
+
+            # print(st)
         
-        return res
+        return wait
+                 
