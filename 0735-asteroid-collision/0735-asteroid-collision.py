@@ -1,25 +1,23 @@
 class Solution:
     def asteroidCollision(self, asteroids: list[int]) -> list[int]:
         
-
         st = []
 
         for i in asteroids:
 
-            if i < 0:
-                while st and st[-1] > 0:
-                    diff = st[-1] + i
-                    if diff > 0:
-                        break
-                    elif diff == 0:
-                        st.pop()
-                        break
-                    else:
-                        st.pop()
+            while i < 0 and st and st[-1] > 0:
+                diff = i + st[-1]
+
+                print(diff)
+
+                if diff == 0:
+                    st.pop()
+                    break
+                elif diff > 0:
+                    break
                 else:
-                    st.append(i)
+                    st.pop()
             else:
                 st.append(i)
         
         return st
-            
