@@ -12,7 +12,7 @@ class Solution:
             d = target - p
             t = d / s
 
-            if not st or t > st[-1]:
+            if not st or st[-1] < t:
                 st.append(t)
 
         # print(pair)
