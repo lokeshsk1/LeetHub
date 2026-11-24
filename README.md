@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/lokeshsk1/LeetHub/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/lokeshsk1/LeetHub/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/lokeshsk1/LeetHub/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/lokeshsk1/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lokeshsk1/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lokeshsk1/LeetHub/tree/master/0560-subarray-sum-equals-k) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/lokeshsk1/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/lokeshsk1/LeetHub/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/lokeshsk1/LeetHub/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/lokeshsk1/LeetHub/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/lokeshsk1/LeetHub/tree/master/0682-baseball-game) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/lokeshsk1/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/lokeshsk1/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/lokeshsk1/LeetHub/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/lokeshsk1/LeetHub/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/lokeshsk1/LeetHub/tree/master/0853-car-fleet) |
