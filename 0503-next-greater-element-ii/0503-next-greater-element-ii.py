@@ -14,5 +14,5 @@ class Solution:
             
             st.append(i)
 
-        print(Map)
+        # print(Map)
         return Map[:len(nums)]
