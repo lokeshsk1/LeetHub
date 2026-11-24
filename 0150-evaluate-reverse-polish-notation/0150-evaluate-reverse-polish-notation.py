@@ -1,19 +1,29 @@
 class Solution:
-    def evalRPN(self, tokens: List[str]) -> int:
+    def evalRPN(self, tokens: list[str]) -> int:
         
+
         st = []
 
         for i in tokens:
-            if i not in '+-*/':
-                st.append(int(i))
-            else:
 
-                b = st.pop()
-                a = st.pop()
+            if i in '*/+-':
 
-                if i=='+': st.append(a+b)
-                elif i=='-': st.append(a-b)
-                elif i=='*': st.append(a*b)
-                elif i=='/': st.append(int(a/b))
+                
+                one = st.pop()
+                two = st.pop()
+
+                if i == '+':
+                    st.append(two + one)
+                elif i == '-':
+                    st.append(two - one)
+                elif i == '*':
+                    st.append(two * one)
+                elif i == '/':
+                    st.append(int(two / one))
+
+                # print(st)
             
-        return st[0]
+            else:
+                st.append(int(i))
+        
+        return st.pop()
