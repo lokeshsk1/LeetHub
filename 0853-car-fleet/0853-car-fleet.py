@@ -2,7 +2,7 @@ class Solution:
     def carFleet(self, target: int, position: list[int], speed: list[int]) -> int:
         
         pair = [[p,s] for p,s in zip(position, speed)]
-        pair.sort(key = lambda x : x[0], reverse = 1)
+        pair.sort(reverse = 1)
 
         st = []
 
