@@ -1,20 +1,19 @@
 class Solution:
     def carFleet(self, target: int, position: list[int], speed: list[int]) -> int:
         
-
-        pair = [[position[i],speed[i]] for i in range(len(position))]
-
-        pair.sort(reverse = 1)
+        pair = [[p,s] for p,s in zip(position, speed)]
+        pair.sort(key = lambda x : x[0], reverse = 1)
 
         st = []
 
         for p,s in pair:
+
             d = target - p
             t = d / s
 
-            if not st or st[-1] < t:
+            if not st or t > st[-1]:
                 st.append(t)
 
-        # print(pair)
-
+        # print(st)
+        
         return len(st)
