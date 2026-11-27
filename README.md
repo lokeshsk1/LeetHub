@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/lokeshsk1/LeetHub/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lokeshsk1/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/lokeshsk1/LeetHub/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0456-132-pattern](https://github.com/lokeshsk1/LeetHub/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/lokeshsk1/LeetHub/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/lokeshsk1/LeetHub/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/lokeshsk1/LeetHub/tree/master/0496-next-greater-element-i) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/lokeshsk1/LeetHub/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/lokeshsk1/LeetHub/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lokeshsk1/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0456-132-pattern](https://github.com/lokeshsk1/LeetHub/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lokeshsk1/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/lokeshsk1/LeetHub/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/lokeshsk1/LeetHub/tree/master/0907-koko-eating-bananas) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/lokeshsk1/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/lokeshsk1/LeetHub/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/lokeshsk1/LeetHub/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/lokeshsk1/LeetHub/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/lokeshsk1/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/lokeshsk1/LeetHub/tree/master/0636-exclusive-time-of-functions) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/lokeshsk1/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/lokeshsk1/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/lokeshsk1/LeetHub/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/lokeshsk1/LeetHub/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/lokeshsk1/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lokeshsk1/LeetHub/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/lokeshsk1/LeetHub/tree/master/0654-maximum-binary-tree) |
@@ -894,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/lokeshsk1/LeetHub/tree/master/0456-132-pattern) |
 | [3477-fruits-into-baskets-ii](https://github.com/lokeshsk1/LeetHub/tree/master/3477-fruits-into-baskets-ii) |
 ## Database
 |  |
